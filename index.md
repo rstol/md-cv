@@ -76,13 +76,13 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 ## Contact
-*Address*
+__Address__
 Steingutstrasse 32, Schaffhausen, SH, 8200
 
-*Date of birth*
+__Date of birth__
 19.07.1999
 
-*Nationality*
+__Nationality__
 Swiss
 
 <!-- ### Footer
