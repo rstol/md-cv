@@ -1,18 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Romeo Stoll's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Romeo Stoll 
+Computer Science Student at ETH Zürich.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
+| <a href="tel:0763657177">076 365 71 77</a>
 </div>
-
 
 ## Currently
 
+I'm an ETH Bachelor's student shortly before graduation and searching for a challenging and rewarding job in software engineering. I love to tackle projects demanding deep analysis and custom solutions that are product-centric and appealing to the customer.
 Standing on the shoulders of giants
 
 ### Specialized in
@@ -20,25 +20,22 @@ Standing on the shoulders of giants
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Hiking, Watersports, Travel, Basketball, Cooking.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-09 - now`
+__Bachelor of Science: Computer Science, ETH Zürich.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor Thesis: Boost flexibility in coding exercises by building containers in real time. Grade: 6
 
-- Sizar
+`2014-08 - 2018-07`
+__High School Diploma, Schaffhausen.__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Core Subject: Economics, Business & Law Final average grade: 5.1
 
 
 
@@ -65,10 +62,6 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
@@ -86,6 +79,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2023 -->
 
 
