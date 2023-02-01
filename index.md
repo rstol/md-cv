@@ -8,7 +8,7 @@ Computer Science Student at ETH Zürich.
 <div id="webaddress">
 <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
 | <a href="tel:0763657177">076 365 71 77</a>
-<i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a>
+| <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a>
 </div>
 
 ## Currently
@@ -19,16 +19,18 @@ I'm an ETH Bachelor's student shortly before graduation and searching for a chal
 ## Employment
 
 `2021-01 - 2022-07` 
-__TopLearning, GmbH, Schaffhausen.__ Private Tutor. 
+__TopLearning GmbH, Schaffhausen.__ Private Tutor. 
 > Teaching students and groups of students from different levels, ranging from secondary school to university at various subjects, with focus on math and natural science.
 
 `2019-2022` 
 __Self-employed, Freelance.__ Web Developer.
 > Stüürlade GmbH, Zürich
 Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and CSS(Tailwind.css).
+
 > Weingut Stoll, Osterfingen
 Developed and designed the company website (weingut-stoll.ch) using React.js (Typescript), Node.js, and CSS, which sourced data from a headless CMS and a headless e-commerce back-end. An added custom serverless functions for functionality which required server computations. The goal was a user-friendly shopping experience that incorporated mobile-first and fast page loading.
 __Key achievement__: Total traffic increased by 78% in first x months.
+
 > Thea Schellhammer, Schaffhausen
 Design and development of website (inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
