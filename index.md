@@ -54,6 +54,12 @@ __Sahli Sicherheits AG, Birmensdorf__ IT-Internship
 
 Hiking, Watersports, Travel, Basketball, Cooking.
 
+## Contact
+__Address__: Steingutstrasse 32, 8200 Schaffhausen
+__Phone__: 076 365 7177 
+__E-Mail__: romeostoll@hey.com
+__Date of birth__: 19.07.1999 
+__Nationality__: Swiss
 
 ## Education
 
@@ -112,13 +118,12 @@ __University of York__ BSc Biology (_First class honours_)
 
 ## Projects
 
-### github
+### The future of computing
 
-My [personal github account](https://github.com/rstol) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
-
-### blog
-
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+### flavourized.
+`2016-17`
+> Young Enterprise Switzerland Company Program
+Being the CEO of flavourized was my first experience leading a team of 5 classmates together in a startup business. We developed a bottle that made drinking water more fun and sold the idea to raise funds from investors and then directly to customers at events using a custom sales booth.
 
 ### EdinbR
 
@@ -128,27 +133,13 @@ I co-founded a usergroup for the R programming language in Edinburgh called Edin
 
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
 
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
 
 ## References
 
