@@ -38,8 +38,8 @@ Design and development of website (inboxyourstuff.de) using jQuery, HTML, CSS(Bo
 __Sahli Sicherheits AG, Birmensdorf__ IT-Internship
 > Migrated the CRM system with its products and customer data from an old Oracle database to a new browser- based system. And redesigned and developed the company website (sahli-sicherheit.ch) with HTML, jQuery, CSS(Bootstrap), and PHP.
 
-## Technical skills
-
+## Skills
+### Technical
 * Javascript (incl. Typescript, React)
 * Python
 * C and Java
@@ -50,16 +50,30 @@ __Sahli Sicherheits AG, Birmensdorf__ IT-Internship
 * Bash
 * Nix
 
+### Languages
+Fluent in the English and German languages. Sound understanding of French.
+
+### Areas of experience
+
+* Software development
+* Cloud engineering and automation
+* Single-page applications
+* Machine learning
+* Web-design
+* Embedded systems
+* Testing
+
 ### Interests
 
-Hiking, Watersports, Travel, Basketball, Cooking.
+Travel, Outdoors, Basketball, Watersports and Cooking.
 
 ## Contact
-__Address__: Steingutstrasse 32, 8200 Schaffhausen
-__Phone__: 076 365 7177 
-__E-Mail__: romeostoll@hey.com
-__Date of birth__: 19.07.1999 
-__Nationality__: Swiss
+
+* __Address__: Steingutstrasse 32, 8200 Schaffhausen
+* __Phone__: 076 365 7177 
+* __E-Mail__: romeostoll@hey.com
+* __Date of birth__: 19.07.1999 
+* __Nationality__: Swiss
 
 ## Education
 
@@ -97,16 +111,6 @@ __Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (
 
 `2008-11`
 __University of York__ BSc Biology (_First class honours_)
-
-## Areas of experience
-
-* Software development
-* Cloud engineering and automation
-* Single-page applications
-* Machine learning
-* Data visualisation
-* Variant calling
-* Illumina sequencing data
 
 ## Publications
 
