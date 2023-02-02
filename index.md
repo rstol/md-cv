@@ -19,23 +19,22 @@ I'm an ETH Bachelor's student shortly before graduation and searching for a chal
 ## Employment
 
 `2021-01 - 2022-07` 
-__TopLearning GmbH, Schaffhausen.__ Private Tutor. 
+__TopLearning GmbH__ Private Tutor. 
 > Teaching students and groups of students from different levels, ranging from secondary school to university at various subjects, with focus on math and natural science.
 
 `2019-2022` 
 __Self-employed, Freelance.__ Web Developer.
-> Stüürlade GmbH, Zürich
-Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and CSS(Tailwind.css).
+> Stüürlade GmbH. Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and CSS(Tailwind.css).
 
-> Weingut Stoll, Osterfingen
+> Weingut Stoll 
 Developed and designed the company website (weingut-stoll.ch) using React.js (Typescript), Node.js, and CSS, which sourced data from a headless CMS and a headless e-commerce back-end. An added custom serverless functions for functionality which required server computations. The goal was a user-friendly shopping experience that incorporated mobile-first and fast page loading.
 __Key achievement__: Total traffic increased by 78% in first x months.
 
-> Thea Schellhammer, Schaffhausen
+> Thea Schellhammer
 Design and development of website (inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
 `2019-02 - 2019-05` 
-__Sahli Sicherheits AG, Birmensdorf__ IT-Internship
+__Sahli Sicherheits AG__ IT-Internship
 > Migrated the CRM system with its products and customer data from an old Oracle database to a new browser- based system. And redesigned and developed the company website (sahli-sicherheit.ch) with HTML, jQuery, CSS(Bootstrap), and PHP.
 
 ## Skills
@@ -78,14 +77,12 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 ## Education
 
 `2019-09 - now`
-__Bachelor of Science: Computer Science, ETH Zürich.__
-
-- Bachelor Thesis: Boost flexibility in coding exercises by building containers in real time. Grade: 6
+__ETH Zürich__ Bachelor of Science: Computer Science.
+> Bachelor Thesis: Boost flexibility in coding exercises by building containers in real time. Grade: 6
 
 `2014-08 - 2018-07`
-__High School Diploma, Schaffhausen.__
-
-- Core Subject: Economics, Business & Law Final average grade: 5.1
+__High School Diploma__ 
+> Direction: Natural Sciences. Core Subject: Economics, Business & Law. Final average grade: 5.1
 
 ## Currently
 
