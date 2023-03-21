@@ -23,19 +23,18 @@ __TopLearning GmbH__ Private Tutor.
 > Teaching students and groups of students from different levels, ranging from secondary school to university at various subjects, with focus on math and natural science.
 
 `2019-22` 
-__Self-employed, Freelance.__ Web Developer.
-> Stüürlade GmbH. Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and CSS(Tailwind.css).
+__Self-employed__ Freelance Web Developer.
+> __Stüürlade GmbH__ Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
-> Weingut Stoll 
-Developed and designed the company website (weingut-stoll.ch) using React.js (Typescript), Node.js, and CSS, which sourced data from a headless CMS and a headless e-commerce back-end. An added custom serverless functions for functionality which required server computations. The goal was a user-friendly shopping experience that incorporated mobile-first and fast page loading.
-__Key achievement__: Total traffic increased by 78% in first x months.
+> __Weingut Stoll__ 
+Developed and designed the company website [weingut-stoll.ch](weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (_Shopify_) API.
+The goal was a fast user-friendly shopping experience with a mobile-first-design that is easy to customize and edit by non-technical content editors. My key achievement was a _total website traffic increase by 78% in the first 6 months_.
 
-> Thea Schellhammer
-Design and development of website (inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
+> __Thea Schellhammer__ Design and development of website [inboxyourstuff.de](inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
 `2019/02-2019/05` 
-__Sahli Sicherheits AG__ IT-Internship
-> Migrated the CRM system with its products and customer data from an old Oracle database to a new browser- based system. And redesigned and developed the company website (sahli-sicherheit.ch) with HTML, jQuery, CSS(Bootstrap), and PHP.
+__Sahli Sicherheits AG__ IT-Intern
+> Migrated the company's CRM system with its product and customer data from an old Oracle database to a new browser-based system. And redesigned and developed the company website (sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
 ## Skills
 ### Technical
