@@ -136,7 +136,7 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 ### The future of computing
 `2021-22`
-
+I analyzed together with D. Vetter the future of computing as _IBM Academy_ Initiative was with Dennis Vetter we analyzed the future of computing. 
 
 ### flavourized.
 `2016-17` 
