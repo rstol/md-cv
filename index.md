@@ -38,6 +38,15 @@ The goal was a fast user-friendly shopping experience with a mobile-first-design
 __Sahli Sicherheits AG__ IT-Intern
 > Migrated the company's CRM system with its product and customer data from an old Oracle database to a new browser-based system. And redesigned and developed the company website (sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
+## Education
+
+`2019-23`
+__ETH Zürich__ Bachelor of Science in Computer Science.
+> My thesis was titled _Boosting flexibility in coding exercises by building containers in real time_, Grade: 6.
+
+`2014-18`
+__High School Diploma__ Direction: Natural Sciences, Core subject: Economics, Business & Law. Final average grade: 5.1
+
 ## Skills
 ### Technical
 * Javascript (incl. Typescript, React)
@@ -74,15 +83,6 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 * __E-Mail__: romeostoll@hey.com
 * __Date of birth__: 19.07.1999 
 * __Nationality__: Swiss
-
-## Education
-
-`2019-23`
-__ETH Zürich__ Bachelor of Science in Computer Science.
-> My thesis was titled _Boost flexibility in coding exercises by building containers in real time_, Grade: 6.
-
-`2014-18`
-__High School Diploma__ Direction: Natural Sciences, Core subject: Economics, Business & Law. Final average grade: 5.1
 
 ## Currently
 
