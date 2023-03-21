@@ -86,7 +86,7 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 * __Date of birth__: 19.07.1999 
 * __Nationality__: Swiss
 
-## Currently
+<!-- ## Currently
 
 I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
 
@@ -119,6 +119,16 @@ __University of York__ BSc Biology (_First class honours_)
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
+### EdinbR
+
+I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+
+### datarea
+
+I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+
+--> 
+
 ## Projects
 
 ### The future of computing
@@ -129,13 +139,6 @@ __University of York__ BSc Biology (_First class honours_)
 `2016-17` 
 I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized_ team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
 
-### EdinbR
-
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 
 
 ## Links
