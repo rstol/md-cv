@@ -13,9 +13,9 @@ Computer Science Student at ETH Zürich.
 
 ## Currently
 
-I'm an ETH Bachelor's student shortly before graduation and searching for a challenging and rewarding job in software engineering. I love to tackle projects demanding deep analysis and custom solutions that are product-centric and appealing to the customer.
-
-I took a gap semester to fulfill my dream of traveling the world for an extended time. This has taught me many valuable skills in flexibility, negotiation, boldness and improvisation.
+I'm an ETH Bachelor's student shortly before graduation and looking to work as a software developer in product and customer-centric projects that focus on quality and fast iteration speeds. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
+I hate lots of open ended meetings and love to come up with my own goals and their execution.
+In the last 6 months I took a gap semester to fulfill my dream of traveling the world for an extended time. This has taught me many life-skills such as flexibility, negotiation, self-sufficiency and improvisation.
 
 ## Employment
 
