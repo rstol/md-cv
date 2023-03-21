@@ -22,8 +22,8 @@ I'm an ETH Bachelor's student shortly before graduation and searching for a chal
 __TopLearning GmbH__ Private Tutor. 
 > Teaching students and groups of students from different levels, ranging from secondary school to university at various subjects, with focus on math and natural science.
 
-`2019-22` 
 ### Freelance Web Developer
+`2019-22` 
 > __Stüürlade GmbH__ Design, development, and deployment of website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
 > __Weingut Stoll__ 
