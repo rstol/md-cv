@@ -13,35 +13,34 @@ Computer Science Student at ETH Zürich.
 
 ## Currently
 
-I'm an ETH Bachelor's student shortly before graduation and looking to work as a software developer in product and customer-centric projects that focus on quality and fast iteration speeds. 
+I'm an ETH Bachelor's student shortly before graduation and looking to work as a software developer in product and customer-centric projects focusing on quality and fast iteration speeds. 
 
-I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
-I hate lots of open ended meetings and love to come up with my own goals and their execution.
+I enjoy finding solutions that make hard problems seem simple by using effective abstractions. I love to come up with my own goals and their execution as a manager of one.
 
-In the last 6 months I took a gap semester to fulfill my dream of traveling the world for an extended time. This has taught me many life-skills such as flexibility, negotiation, self-sufficiency and improvisation.
+In the last six months, I took a gap semester to fulfill my dream of traveling the world for an extended time. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
 
 ## Employment
 
 `2021-22/07` 
 __TopLearning GmbH__ Private Tutor
-> Teaching students and groups of students from different levels, ranging from secondary school to university at various subjects, with focus on math and natural science.
+> Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on math and natural science.
 
 ### Freelance Web Developer
 
 `2019-22` 
  __Stüürlade GmbH__ 
-> Design, development, and deployment of website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
+> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
  __Weingut Stoll__ 
 > Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (_Shopify_) API.
-The goal was a fast user-friendly shopping experience with a mobile-first-design that is easy to customize and edit by non-technical content editors. The key achievement was a _total website traffic increase by 78% in the first 6 months_.
+The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _total website traffic increase of 78% in the first six months_.
 
  __Thea Schellhammer__ 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
 `2019/02-19/05` 
 __Sahli Sicherheits AG__ IT-Intern
-> Migrated the company's CRM system with its product and customer data from an old Oracle database to a new browser-based system. And redesigned and developed the company website (sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
+> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
 ## Education
 
@@ -79,7 +78,7 @@ Fluent in the English and German languages. Sound understanding of French.
 
 ### Interests
 
-Travel, Outdoors, Basketball, Watersports and Cooking.
+Travel, Outdoors, Basketball, Watersports, and Cooking.
 
 ## Contact
 
@@ -91,7 +90,7 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 
 <!-- ## Currently
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices, and effective cloud services.
 
 ## Employment
 
@@ -101,7 +100,7 @@ __Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and soluti
 
 `2015-20` 
 __Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+> I joined Illumina's R&D organization in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
 
 ## Education
 
@@ -124,19 +123,13 @@ __University of York__ BSc Biology (_First class honours_)
 
 ### EdinbR
 
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
-
 --> 
 
 ## Projects
 
 ### The future of computing
 `2021-22`
-In this _IBM Academy Initiative_ project I worked with D. Vetter on analyzing the future of computing. We presented our analysis of Quantum, Neuromorphic and In-Memory Computing in a company internal presentation, a presentation before the graduates of the CAS in Applied Information Technology programme and in an internal company blog post. 
+In this _IBM Academy Initiative_ seminar I worked with D. Vetter on analyzing the future of computing. We presented our analysis of the computing technologies: Quantum, Neuromorphic, and In-Memory in a company-representative presentation, a presentation before the CAS in Applied Information Technology graduates, and an internal company blog post. 
 
 ### flavourized.
 `2016-17` 
@@ -145,7 +138,7 @@ I participated in the _Young Enterprise Switzerland Company Program_ leading the
 
 ## Links
 
-<!-- fa are fontawesome, ai are academicons -->
+<!-- fa is fontawesome, ai are academicons -->
 * <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
 
