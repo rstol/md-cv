@@ -143,15 +143,11 @@ h2 {
 	width: 20%;
 }
 
-h2+h3 {
-	top: 1.5em;
-}
-
 h3 {
 	font-size: 1em;
 	line-height: 1.3em;
 	position: relative;
-	top: 0em;
+	top: 1.4em;
 	text-align: right;
 	width: 20%;
 }
