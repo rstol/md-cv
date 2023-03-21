@@ -8,7 +8,7 @@ Computer Science Student at ETH Zürich.
 <div id="webaddress">
 <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
 | <a href="tel:+41763657177">076 365 71 77</a>
-| <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a>
+| <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
 </div>
 
 ## Currently
@@ -27,10 +27,10 @@ __TopLearning GmbH__ Private Tutor.
 > __Stüürlade GmbH__ Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
 > __Weingut Stoll__ 
-Developed and designed the company website [weingut-stoll.ch](weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (_Shopify_) API.
+Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (_Shopify_) API.
 The goal was a fast user-friendly shopping experience with a mobile-first-design that is easy to customize and edit by non-technical content editors. My key achievement was a _total website traffic increase by 78% in the first 6 months_.
 
-> __Thea Schellhammer__ Design and development of website [inboxyourstuff.de](inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
+> __Thea Schellhammer__ Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
 `2019/02-2019/05` 
 __Sahli Sicherheits AG__ IT-Intern
