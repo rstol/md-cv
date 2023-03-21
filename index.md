@@ -75,7 +75,7 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 
 ## Education
 
-`2019-2023`
+`2019-23`
 __ETH Zürich__ Bachelor of Science in Computer Science.
 > Bachelor Thesis: Boost flexibility in coding exercises by building containers in real time; Grade: 6.
 
