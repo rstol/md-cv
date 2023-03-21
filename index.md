@@ -80,7 +80,7 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 
 * __Address__: Steingutstrasse 32, 8200 Schaffhausen
 * __Phone__: 076 365 7177 
-* __E-Mail__: romeostoll@hey.com
+* __E-Mail__: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
 * __Date of birth__: 19.07.1999 
 * __Nationality__: Swiss
 
@@ -139,7 +139,6 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
 
@@ -149,6 +148,6 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: Jan 2023 -->
+Last updated: March 2023 -->
 
 
