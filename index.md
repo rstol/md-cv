@@ -77,10 +77,10 @@ Travel, Outdoors, Basketball, Watersports and Cooking.
 
 `2019-23`
 __ETH Zürich__ Bachelor of Science in Computer Science.
-> Bachelor Thesis: Boost flexibility in coding exercises by building containers in real time; Grade: 6.
+> My thesis was titled _Boost flexibility in coding exercises by building containers in real time_, Grade: 6.
 
 `2014-18`
-__High School Diploma__ Direction: Natural Sciences. Core Subject: Economics, Business & Law. Final average grade: 5.1
+__High School Diploma__ Direction: Natural Sciences, Core subject: Economics, Business & Law. Final average grade: 5.1
 
 ## Currently
 
