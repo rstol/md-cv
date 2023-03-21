@@ -120,11 +120,12 @@ __University of York__ BSc Biology (_First class honours_)
 ## Projects
 
 ### The future of computing
+`2021-22`
+
 
 ### flavourized.
-`2016-17`
-> Young Enterprise Switzerland Company Program
-Being the CEO of flavourized was my first experience leading a team of 5 classmates together in a startup business. We developed a bottle that made drinking water more fun and sold the idea to raise funds from investors and then directly to customers at events using a custom sales booth.
+`2016-17` 
+I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized_ team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
 
 ### EdinbR
 
