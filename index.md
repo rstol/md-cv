@@ -34,7 +34,7 @@ The goal was a fast user-friendly shopping experience with a mobile-first-design
  __Thea Schellhammer__ 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
-`2019/02-2019/05` 
+`2019/02-19/05` 
 __Sahli Sicherheits AG__ IT-Intern
 > Migrated the company's CRM system with its product and customer data from an old Oracle database to a new browser-based system. And redesigned and developed the company website (sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
