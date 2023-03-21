@@ -24,7 +24,7 @@ __TopLearning GmbH__ Private Tutor.
 
 `2019-22` 
 ### Freelance Web Developer
-> __Stüürlade GmbH__ Design, development, and deployment of website (stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
+> __Stüürlade GmbH__ Design, development, and deployment of website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
 > __Weingut Stoll__ 
 Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (_Shopify_) API.
