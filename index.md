@@ -136,12 +136,11 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 ### The future of computing
 `2021-22`
-I analyzed together with D. Vetter the future of computing as _IBM Academy_ Initiative was with Dennis Vetter we analyzed the future of computing. 
+In this _IBM Academy Initiative_ project I worked with D. Vetter on analyzing the future of computing. We presented our analysis of Quantum, Neuromorphic and In-Memory Computing in a company internal presentation, a presentation before the graduates of the CAS in Applied Information Technology programme and in an internal company blog post. 
 
 ### flavourized.
 `2016-17` 
 I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized_ team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
-
 
 
 ## Links
