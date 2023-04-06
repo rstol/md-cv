@@ -1,6 +1,6 @@
 # markdown-cv
 
-[Live version](https://rstol.github.io/markdown-cv/)
+[Live version](https://rstol.github.io/md-cv/)
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
