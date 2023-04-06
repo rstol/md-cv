@@ -13,7 +13,7 @@ Computer Science Student at ETH Zürich.
 
 ## Currently
 
-I'm an ETH Bachelor's student shortly before graduation and looking to work as a software developer in product and customer-centric projects focusing on quality and fast iteration speeds. 
+I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer in product and customer-centric projects focusing on quality and fast iteration speeds.
 
 I enjoy finding solutions that make hard problems seem simple by using effective abstractions. I love to come up with my own goals and their execution as a manager of one.
 
