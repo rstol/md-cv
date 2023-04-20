@@ -26,7 +26,7 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ### Freelance Web Developer
 
-`2019-22`
+`2019 - 22`
 **Stüürlade GmbH**
 
 > Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
@@ -40,22 +40,22 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
-`2019/02-19/05`
+`2019/02 - 19/05`
 **Sahli Sicherheits AG** IT-Intern
 
 > Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
-`2018/06-2018/10`
+`2018/06 - 18/10`
 **Schweizer Armee** Angehöriger der Armee (RS)
 
 ## Education
 
-`2019-now`
+`2019 - now`
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
 > My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
 
-`2014-18`
+`2014 - 18`
 **Kantonsschule Schaffhausen** Matura Diploma
 
 > Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
@@ -64,13 +64,12 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ### The future of computing
 
+`2021/09 - 22/04`
 In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
-
-`2021-22`
 
 ### flavourized.
 
-`2016-17`
+`2016 - 17`
 I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized._-team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
 
 ## Skills
