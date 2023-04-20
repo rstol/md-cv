@@ -15,11 +15,7 @@ Computer Science Student at ETH Zürich.
 
 ## Currently
 
-I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer in product and customer-centric projects focusing on quality and fast iteration speeds.
-
-I enjoy finding solutions that make hard problems seem simple by using effective abstractions. I love to come up with my own goals and their execution as a manager of one.
-
-In the last six months, I took a gap semester to fulfill my dream of traveling the world for an extended time. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+I’m a Computer Science student at ETH Zürich shortly before graduation. In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
 
 ## Employment
 
@@ -68,7 +64,7 @@ In the last six months, I took a gap semester to fulfill my dream of traveling t
 
 ### The future of computing
 
-In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before IBM representatives, at the CAS in Applied Information Technology graduation event, and as an internal IBM blog post.
+In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
 
 `2021-22`
 
