@@ -49,15 +49,20 @@ In the last six months, I took a gap semester to fulfill my dream of traveling t
 
 > Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
+`2018/06-2018/10`
+**Schweizer Armee** Angehöriger der Armee (RS)
+
 ## Education
 
-`2019-23`
-**ETH Zürich** Bachelor of Science in Computer Science.
+`2019-now`
+**ETH Zürich** Bachelor of Science ETH in Computer Science
 
-> My thesis was titled _Boosting flexibility in coding exercises by building containers in real time_, Grade: 6.
+> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
 
 `2014-18`
-**High School Diploma** Direction: Natural Sciences, Core subject: Economics, Business & Law. Final average grade: 5.1
+**Kantonsschule Schaffhausen** Matura Diploma
+
+> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
 
 ## Skills
 
