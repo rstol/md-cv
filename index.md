@@ -62,15 +62,15 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ## Projects
 
-### The future of computing
-
 `2021/09 - 22/04`
-In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
+**The future of computing**
 
-### flavourized.
+> In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
 
 `2016 - 17`
-I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized._-team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
+**flavourized.**
+
+> I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized._-team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
 
 ## Skills
 
