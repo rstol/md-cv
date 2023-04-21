@@ -13,7 +13,42 @@ title: Romeo Stoll's CV
 
 ## Currently
 
-> I’m a Computer Science student at ETH Zürich shortly before graduation. In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realising ideas.
+
+I enjoy finding solutions that make hard problems seem simple by using effective abstractions. I love to come up with my own goals and their execution as a manager of one.
+
+After three years of full-time study, I took a gap semester to collect experiences of foreign cultures and their people around the world. Navigating through the mazes of the world has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+
+## Employment
+
+`2021/08 - 2022/07`
+**TopLearning GmbH** Private Tutor
+
+> Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on math and natural science.
+
+`2021/12 - 2022/02`
+**Stüürlade GmbH** Freelance Web-Developer
+
+> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
+
+`2019/05 - 2022`
+**Weingut Stoll** Web-Developer (Pro bono)
+
+> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that interacts with data from headless CMS and commerce (Shopify) APIs.
+> The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _website traffic increase of 78% in the first six months_.
+
+`2019/10 - 2021/01`
+**Thea Schellhammer** Freelance Web-Developer
+
+> Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
+
+`2019/02 - 2019/05`
+**Sahli Sicherheits AG** IT-Intern
+
+> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
+
+`2018/06 - 2018/10`
+**Schweizer Armee** Angehöriger der Armee (RS)
 
 ## Education
 
@@ -26,46 +61,6 @@ title: Romeo Stoll's CV
 **Kantonsschule Schaffhausen** Matura Diploma
 
 > Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
-
-## Employment
-
-`09/2022 - 09/2022`
-**Schweizer Armee** Angehöriger der Armee (WK)
-
->
-
-`08/2021 - 07/2022`
-**TopLearning GmbH** Private Tutor
-
-> Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on math and natural science.
-
-`12/2021 - 02/2022`
-**Stüürlade GmbH** Freelance Web-Developer
-
-> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
-
-`06/2019 - 2022`
-**Weingut Stoll** Web-Developer (Pro bono)
-
-> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (Shopify) API. The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors.
-
-`10/2019 - 01/2021`
-**Thea Schellhammer** Freelance Web-Developer
-
-> Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
-
-`06/2019 - 06/2019`
-**Schweizer Armee** Angehöriger der Armee (WK)
-
->
-
-`02/2019 - 05/2019`
-**Sahli Sicherheits AG** IT-Intern
-
-> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
-
-`06/2018 - 11/2018`
-**Schweizer Armee** Angehöriger der Armee (RS)
 
 ## Projects
 
@@ -94,12 +89,12 @@ Fluent in the English and German languages. Sound understanding of French.
 - Docker
 - Git and GitHub
 - HTML and CSS
+- Frameworks: React, Next, Gatsby, Remix
 
 ### Areas of experience
 
-- Software development
+- Web applications
 - Cloud engineering and automation
-- Single-page applications
 - Machine learning
 - Web-design
 - Embedded systems
