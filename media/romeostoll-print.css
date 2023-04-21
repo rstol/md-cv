@@ -42,6 +42,9 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+blockquote {
+  margin-bottom: 1.5em;
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -63,7 +66,7 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 20%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 60%;
@@ -74,22 +77,25 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #94a3b8;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -30%;
 }
 
 
 ul {
-	position: relative;
-	left: 25%;
-	width: 75%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+  position: relative;
+	left: 20%;
+	width: 70%;
+  margin-bottom: 1.5em;
+	/* margin-top: 1em; */
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 
 /*uncomment to get dashes in the list*/
@@ -124,7 +130,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 20%;
 }
 
 h1+p {
@@ -134,24 +140,24 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #a00;
+	font-size: 1.2em;
+	color: #334155;
 	margin-top: 1.75em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 20%;
+	width: 15%;
 }
 
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	line-height: 1.2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 20%;
+	width: 15%;
 }
 
 a {
@@ -166,7 +172,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 20%;
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
@@ -177,8 +183,8 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
+	color: #475569;
 }
 
 strong {
