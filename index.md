@@ -19,38 +19,43 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ## Employment
 
-`2021/08 - 2022/07`
+`09/2022 - 09/2022`
+**Schweizer Armee** Angehöriger der Armee (WK)
+
+`08/2021 - 07/2022`
 **TopLearning GmbH** Private Tutor
 
 > Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on math and natural science.
 
-`2021/12 - 2022/02`
+`12/2021 - 02/2022`
 **Stüürlade GmbH** Freelance Web-Developer
 
 > Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
-`2019/05 - 2022`
+`06/2019 - 2022`
 **Weingut Stoll** Web-Developer (Pro bono)
 
-> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (Shopify) API.
-> The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _total website traffic increase of 78% in the first six months_.
+> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (Shopify) API. The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors.
 
-`2019/10 - 2021/01`
+`10/2019 - 01/2021`
 **Thea Schellhammer** Freelance Web-Developer
 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
-`2019/02 - 2019/05`
+`06/2019 - 06/2019`
+**Schweizer Armee** Angehöriger der Armee (WK)
+
+`02/2019 - 05/2019`
 **Sahli Sicherheits AG** IT-Intern
 
 > Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
 
-`2018/06 - 2018/10`
+`06/2018 - 11/2018`
 **Schweizer Armee** Angehöriger der Armee (RS)
 
 ## Education
 
-`2019 - now`
+`09/2019 - now`
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
 > My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
@@ -76,7 +81,7 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ### Technical
 
-- Javascript (incl. Typescript, React)
+- Javascript
 - Python
 - C and Java
 - UNIX
