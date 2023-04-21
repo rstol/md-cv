@@ -19,24 +19,24 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ## Employment
 
-`2021-22/07`
+`2021 - 22/07`
 **TopLearning GmbH** Private Tutor
 
 > Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on math and natural science.
 
-### Freelance Web Developer
-
-`2019 - 22`
-**Stüürlade GmbH**
+`2021/12 - 22/02`
+**Stüürlade GmbH** Freelance Web-Developer
 
 > Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
 
-**Weingut Stoll**
+`2019/05 - 22`
+**Weingut Stoll** Web-Developer (Pro bono)
 
 > Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (_Shopify_) API.
 > The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _total website traffic increase of 78% in the first six months_.
 
-**Thea Schellhammer**
+`2019/10 - 21/01`
+**Thea Schellhammer** Freelance Web-Developer
 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
 
