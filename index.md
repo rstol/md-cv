@@ -5,8 +5,6 @@ title: Romeo Stoll's CV
 
 # Romeo M. Stoll
 
-Computer Science Student at ETH Zürich.
-
 <div id="webaddress">
 <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
 | <a href="tel:+41763657177">076 365 71 77</a>
@@ -15,12 +13,26 @@ Computer Science Student at ETH Zürich.
 
 ## Currently
 
-I’m a Computer Science student at ETH Zürich shortly before graduation. In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+> I’m a Computer Science student at ETH Zürich shortly before graduation. In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+
+## Education
+
+`09/2019 - now`
+**ETH Zürich** Bachelor of Science ETH in Computer Science
+
+> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
+
+`2014 - 2018`
+**Kantonsschule Schaffhausen** Matura Diploma
+
+> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
 
 ## Employment
 
 `09/2022 - 09/2022`
 **Schweizer Armee** Angehöriger der Armee (WK)
+
+>
 
 `08/2021 - 07/2022`
 **TopLearning GmbH** Private Tutor
@@ -45,6 +57,8 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 `06/2019 - 06/2019`
 **Schweizer Armee** Angehöriger der Armee (WK)
 
+>
+
 `02/2019 - 05/2019`
 **Sahli Sicherheits AG** IT-Intern
 
@@ -52,18 +66,6 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 `06/2018 - 11/2018`
 **Schweizer Armee** Angehöriger der Armee (RS)
-
-## Education
-
-`09/2019 - now`
-**ETH Zürich** Bachelor of Science ETH in Computer Science
-
-> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
-
-`2014 - 2018`
-**Kantonsschule Schaffhausen** Matura Diploma
-
-> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
 
 ## Projects
 
@@ -79,21 +81,19 @@ I’m a Computer Science student at ETH Zürich shortly before graduation. In th
 
 ## Skills
 
+### Languages
+
+Fluent in the English and German languages. Sound understanding of French.
+
 ### Technical
 
 - Javascript
 - Python
 - C and Java
-- UNIX
+- UNIX and Nix
 - Docker
 - Git and GitHub
 - HTML and CSS
-- Bash
-- Nix
-
-### Languages
-
-Fluent in the English and German languages. Sound understanding of French.
 
 ### Areas of experience
 
