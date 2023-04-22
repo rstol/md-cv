@@ -77,7 +77,7 @@ title: Romeo Stoll's CV
 `2016 - 2017`
 **flavourized.**
 
-> I participated in the _Young Enterprise Switzerland Company Program_ leading the _flavourized._-team of 5 classmates. Our startup developed a bottle that made drinking water more fun. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
+> I participated in the _Young Enterprise Switzerland Company Program_ and led the _flavourized._-team of five classmates. Our start-up developed a reusable bottle that encouraged drinking water by adding extra flavor. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
 
 ## Skills
 
@@ -117,14 +117,14 @@ Travel, Outdoors, Basketball, Watersports, and Cooking.
 - **Date of birth**: 19.07.1999
 - **Nationality**: Swiss
 
-## Links
+### Links
 
 <!-- fa is fontawesome, ai are academicons -->
 
 <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a><br />
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
 
-## References
+### References
 
 Available on request.
 
