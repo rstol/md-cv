@@ -104,17 +104,19 @@ li ul {
 	margin-top: 0.25em;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
 }
 
 h1 {
 	font-size: 2em;
 	line-height: 1em;
-  text-align: center;
-  width: 100%;
 }
 
 h1+p {
@@ -165,7 +167,10 @@ a:hover {
 }
 
 #webaddress {
-	display: none;
+	margin-top: 1em;
+	color: #64748b;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 80%;
 }
 
 #webaddress a {
@@ -183,6 +188,14 @@ strong {
 
 #address {
 	display: none;
+}
+
+#profile-picture {
+  overflow: hidden;
+  height: auto;
+  width: 90px;
+  object-fit: cover;
+  object-position: center;
 }
 
 /*

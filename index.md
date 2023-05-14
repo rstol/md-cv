@@ -30,7 +30,7 @@ title: Romeo Stoll's CV
 `2019/05 - 2022`
 **Weingut Stoll** Webentwickler (Pro bono)
 
-> Entwicklung und Gestaltung der Firmenwebsite [weingut-stoll.ch] (https://weingut-stoll.ch) als React-Frontend, das mit Daten aus headless CMS und eCommerce (Shopify) APIs interagiert.
+> Entwicklung und Gestaltung der Firmenwebsite [weingut-stoll.ch](https://weingut-stoll.ch) als React-Frontend, das mit Daten aus headless CMS und eCommerce (Shopify) APIs interagiert.
 > Das Ziel war ein schnelles und benutzerfreundliches Einkaufserlebnis mit einem Mobile-First-Design, das auch von nicht-technischen Editoren leicht angepasst und bearbeitet werden kann. Die wichtigste Errungenschaft war ein _Anstieg des Website-Traffics um 78 % in den ersten sechs Monaten_.
 
 `2019/10 - 2021/01`
@@ -63,7 +63,7 @@ title: Romeo Stoll's CV
 `2021/09 - 2022/04`
 **The future of computing**
 
-> Im _Case Studies from Practice Seminar_ arbeitete ich zusammen mit einem Studiumskollege an einer _IBM Academy Initiative_ unter der Leitung von [Christian Eggenberger] (https://www.linkedin.com/in/christianeggenberger/). Wir untersuchten die Zukunft von Quantum, Neuromorphic und In-Memory Computing. Wir präsentierten unsere Analyse der drei Technologien vor _IBM_-Vertretern, bei der Abschlussveranstaltung des _ETH CAS in Applied Information Technology_ und in einem internen _IBM_-Blogpost
+> Im _Case Studies from Practice Seminar_ arbeitete ich zusammen mit einem Studiumskollege an einer _IBM Academy Initiative_ unter der Leitung von [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). Wir untersuchten die Zukunft von Quantum, Neuromorphic und In-Memory Computing. Wir präsentierten unsere Analyse der drei Technologien vor _IBM_-Vertretern, bei der Abschlussveranstaltung des _ETH CAS in Applied Information Technology_ und in einem internen _IBM_-Blogpost
 
 `2016 - 2017`
 **flavourized.**
