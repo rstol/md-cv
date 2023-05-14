@@ -1,0 +1,205 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+	content: none;
+}
+table {
+  border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end of reset */
+
+
+
+blockquote {
+  margin-bottom: 1.5em;
+  max-width: 80ch;
+}
+
+blockquote p {
+  margin-top: 0.2em;
+}
+
+body {
+  font: normal normal 400;
+  max-width: 1024px;
+  margin: 0 auto;
+	font-size: 18px;
+	line-height: 1.5em;
+	/*also written as...  font: normal normal 400 100%/1.5em;*/
+	font-family: Avenir,Verdana,sans-serif;
+	padding: 4rem 1em;
+}
+
+p {
+	margin-top: 0.5em;
+}
+
+code {
+	font: normal normal;
+	font-size: 90%;
+	/*line-height: 1em;*/
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #94a3b8;
+}
+
+p code {
+	float: right;
+}
+
+p strong {
+  font-size: 110%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  margin-bottom: 1.5em;
+	/* margin-top: 1em; */
+  columns: 2;
+  max-width: 90ch;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  margin-left: 1em;
+}
+
+li ul {
+	position: relative;
+	width: 100%;
+	margin-top: 0.25em;
+}
+
+h1,h2,h3,h4 {
+	font-weight: 400;
+	font-family: Avenir,Cousine,Verdana,sans-serif;
+}
+
+h1 {
+	font-size: 3em;
+	line-height: 1em;
+}
+
+h1+p {
+  /*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+  text-align: center;
+}
+
+h2 {
+  display: flex;
+  font-weight: 600;
+	font-size: 1.5em;
+	color: #334155;
+	margin-top: 1.5em;
+  margin-bottom: 0.5em;
+	top: 1.4em;
+  width: 100%;
+}
+
+h2::after {
+  border-bottom: 1.7px solid #e2e8f0;
+  height: 0.8em;
+  margin-left: 10px;
+  content: "";
+  flex: 1;
+}
+
+h2+h3 {
+  margin-top: 1em;
+}
+
+h3 {
+	font-size: 1.1em;
+  font-weight: 600;
+  color: #334155;
+  margin-bottom: 0.5em;
+	line-height: 1.3em;
+  margin-top: 1.5em;
+}
+
+a {
+	color: inherit;
+	/*text-decoration:none*/
+}
+
+a:hover {
+	color:#39f
+}
+
+#webaddress {
+	margin-top: 1em;
+	color: #64748b;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 80%;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
+
+em {
+	/* font-weight: bold; */
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+#address {
+	display: none;
+}
+
+#profile-picture {
+  overflow: hidden;
+  height: 160px;
+  width: 125px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/
