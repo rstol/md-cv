@@ -3,111 +3,110 @@ layout: cv
 title: Romeo Stoll's CV
 ---
 
-# Romeo M. Stoll
+<header>
+  <div>
+    <h1>Romeo M. Stoll</h1>
+    <div id="webaddress">
+      <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
+    | <a href="tel:+41763657177">076 365 71 77</a>
+    | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
+  </div>
+  </div>
+  <img src="assets/RomeoStoll.jpg" alt="Bild von Romeo Stoll" id="profile-picture">
+</header>
 
-<div id="webaddress">
-<a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
-| <a href="tel:+41763657177">076 365 71 77</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
-</div>
-
-## Currently
-
-I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realising ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
-In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
-
-## Employment
+## Berufliche Laufbahn
 
 `2021/08 - 2022/07`
-**TopLearning GmbH** Private Tutor
+**TopLearning GmbH, Schaffhausen** Nachhilfelehrer
 
-> Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on math and natural science.
+> Unterrichten von Schülergruppen verschiedener Stufen (Sekundarschule bis Universität) in verschiedenen Fächern mit Schwerpunkt auf Mathematik und Naturwissenschaften.
 
 `2021/12 - 2022/02`
-**Stüürlade GmbH** Freelance Web-Developer
+**Stüürlade GmbH** Freelance Webentwickler
 
-> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
+> Design, Entwicklung und Deployment der Website [stüürlade.ch](https://stüürlade.ch) mit Next.js (Typescript) frontend und headless CMS GraphQL backend.
 
 `2019/05 - 2022`
-**Weingut Stoll** Web-Developer (Pro bono)
+**Weingut Stoll** Webentwickler (Pro bono)
 
-> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that interacts with data from headless CMS and commerce (Shopify) APIs.
-> The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _website traffic increase of 78% in the first six months_.
+> Entwicklung und Gestaltung der Firmenwebsite [weingut-stoll.ch] (https://weingut-stoll.ch) als React-Frontend, das mit Daten aus headless CMS und eCommerce (Shopify) APIs interagiert.
+> Das Ziel war ein schnelles und benutzerfreundliches Einkaufserlebnis mit einem Mobile-First-Design, das auch von nicht-technischen Editoren leicht angepasst und bearbeitet werden kann. Die wichtigste Errungenschaft war ein _Anstieg des Website-Traffics um 78 % in den ersten sechs Monaten_.
 
 `2019/10 - 2021/01`
-**Thea Schellhammer** Freelance Web-Developer
+**Thea Schellhammer** Freelance Webentwickler
 
-> Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
+> Design und Entwicklung der Website [inboxyourstuff.de](https://inboxyourstuff.de) mit jQuery, HTML, CSS(Bootstrap) und PHP.
 
 `2019/02 - 2019/05`
 **Sahli Sicherheits AG** IT-Intern
 
-> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
+> Migrierte das CRM-System der Firma mit Produkt- und Kundendaten von einer alten Oracle-Datenbank auf ein neues browserbasiertes System. Meine Arbeit umfasste das Redesign und die Entwicklung der Firmenwebsite [sahli-sicherheit.ch](https://sahli-sicherheit.ch) mit PHP, jQuery, HTML & CSS (Bootstrap).
 
 `2018/06 - 2018/10`
 **Schweizer Armee** Angehöriger der Armee (RS)
 
-## Education
+## Ausbildung
 
-`09/2019 - now`
-**ETH Zürich** Bachelor of Science ETH in Computer Science
+`09/2019 - jetzt`
+**ETH Zürich** Bachelor of Science ETH in Informatik
 
-> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
+> Meine Diplomarbeit trug den Titel _"Boosting flexibility in coding exercises by building containers in real time"_ – Note: 6.
 
 `2014 - 2018`
-**Kantonsschule Schaffhausen** Matura Diploma
+**Kantonsschule Schaffhausen** Eidgenössische Matura
 
-> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
+> Fachrichtung: Naturwissenschaften, Kernfach: Wirtschaft & Recht. Abschluss Notendurchschnitt: 5,1. Meine Maturaarbeit hatte den Titel _"Werden die Reichen immer reicher?"_ - Note: 6
 
-## Projects
+## Projekte
 
 `2021/09 - 2022/04`
 **The future of computing**
 
-> In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
+> Im _Case Studies from Practice Seminar_ arbeitete ich zusammen mit einem Studiumskollege an einer _IBM Academy Initiative_ unter der Leitung von [Christian Eggenberger] (https://www.linkedin.com/in/christianeggenberger/). Wir untersuchten die Zukunft von Quantum, Neuromorphic und In-Memory Computing. Wir präsentierten unsere Analyse der drei Technologien vor _IBM_-Vertretern, bei der Abschlussveranstaltung des _ETH CAS in Applied Information Technology_ und in einem internen _IBM_-Blogpost
 
 `2016 - 2017`
 **flavourized.**
 
-> I participated in the _Young Enterprise Switzerland Company Program_ and led the _flavourized._-team of five classmates. Our start-up developed a reusable bottle that encouraged drinking water by adding extra flavor. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
+> Ich nahm am _Young Enterprise Switzerland Company Program_ teil und leitete das Team _flavourized._, das aus fünf Klassenkameraden bestand. Unser Start-up entwickelte eine wiederverwendbare Flasche, die das Trinken von Wasser durch die Zugabe von zusätzlichen Aromen fördert. Wir sammelten Geld von Einzelinvestoren und verkauften direkt an Kunden online und bei Veranstaltungen mit einem speziellen Verkaufsstand.
 
 ## Skills
 
-### Languages
+### Sprachen
 
-Fluent in the English and German languages. Sound understanding of French.
+Fliessende Beherrschung der deutschen (Muttersprache) und englischen Sprache. Gute Kenntnisse der französischen Sprache.
 
-### Technical
+### Technische
 
 - Javascript
 - Python
-- C and Java
-- UNIX and Nix
+- C und Java
+- UNIX und Nix
 - Docker
-- Git and GitHub
-- HTML and CSS
-- Frameworks: React, Next, Gatsby, Remix
+- Git und GitHub
+- HTML und CSS
+- Web-Frameworks: React, Next, Gatsby, Remix
 
-### Areas of experience
+### Erfahrungsbereiche
 
-- Web applications
-- Cloud engineering and automation
-- Machine learning
-- Web-design
-- Embedded systems
+- Web-Applikationen
+- Cloud-Engineering und Automatisierung
+- Maschinelles Lernen
+- Webdesign
+- Embedded Systems
 - Testing
 
-## Interests
+## Interessen
 
-Travel, Outdoors, Basketball, Watersports, and Cooking.
+Reisen, Natur, Basketball, Wassersport und Kochen.
 
-## Contact
+Kontakt
 
-- **Address**: Steingutstrasse 32, 8200 Schaffhausen
-- **Phone**: 076 365 7177
+- **Adresse**: Steingutstrasse 32, 8200 Schaffhausen
+- **Telefon**: 076 365 7177
 - **E-Mail**: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
-- **Date of birth**: 19.07.1999
-- **Nationality**: Swiss
+- **Geburtsdatum**: 19.07.1999
+- **Staatsangehörigkeit**: Schweiz
 
 ### Links
 
@@ -116,10 +115,10 @@ Travel, Outdoors, Basketball, Watersports, and Cooking.
 <i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a><br />
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
 
-### References
+### Referenzen
 
-Available on request.
+Auf Anfrage erhältlich.
 
 <!-- ### Footer
 
-Last updated: March 2023 -->
+Last updated: May 2023 -->
