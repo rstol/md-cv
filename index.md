@@ -13,20 +13,8 @@ title: Romeo Stoll's CV
 
 ## Currently
 
-<<<<<<< HEAD
-I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realising ideas.
-
-I enjoy finding solutions that make hard problems seem simple by using effective abstractions. I love to come up with my own goals and their execution as a manager of one.
-
-# After three years of full-time study, I took a gap semester to collect experiences of foreign cultures and their people around the world. Navigating through the mazes of the world has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
-
-I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer in product and customer-centric projects focusing on quality and fast iteration speeds.
-
-I enjoy finding solutions that make hard problems seem simple by using effective abstractions. I love to come up with my own goals and their execution as a manager of one.
-
+I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realising ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
 In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
-
-> > > > > > > f659e9d (merged updated text and styling from 'full-chronological')
 
 ## Employment
 
