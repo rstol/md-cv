@@ -12,7 +12,7 @@ title: Romeo Stoll's CV
     | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
   </div>
   </div>
-  <img src="assets/RomeoStoll.jpg" alt="Bild von Romeo Stoll" id="profile-picture">
+  <img src="../assets/RomeoStoll.jpg" alt="Bild von Romeo Stoll" id="profile-picture">
 </header>
 
 ## Berufliche Laufbahn
