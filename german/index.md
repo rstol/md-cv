@@ -100,9 +100,9 @@ Fliessende Beherrschung der deutschen (Muttersprache) und englischen Sprache. Gu
 
 Reisen, Natur, Basketball, Wassersport und Kochen.
 
-Kontakt
+### Kontakt
 
-- **Adresse**: Steingutstrasse 32, 8200 Schaffhausen
+- **Adresse**: Steingutstrasse 32, 8200 Schaffhausen, <br> Ab 01.06.2023: Scheuchzerstrasse 3, 8006 Zürich
 - **Telefon**: 076 365 7177
 - **E-Mail**: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
 - **Geburtsdatum**: 19.07.1999
