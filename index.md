@@ -3,13 +3,17 @@ layout: cv
 title: Romeo Stoll's CV
 ---
 
-# Romeo M. Stoll
-
-<div id="webaddress">
-<a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
-| <a href="tel:+41763657177">076 365 71 77</a>
-| <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
-</div>
+<header>
+  <div>
+    <h1>Romeo M. Stoll</h1>
+    <div id="webaddress">
+      <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
+    | <a href="tel:+41763657177">076 365 71 77</a>
+    | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
+  </div>
+  </div>
+  <img src="assets/RomeoStoll.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
+</header>
 
 ## Currently
 
