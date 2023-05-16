@@ -15,10 +15,9 @@ title: Romeo Stoll's CV
   <img src="assets/RomeoStoll.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
-## Currently
-
+<!-- ## Currently
 I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realising ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
-In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
 
 ## Employment
 
@@ -30,12 +29,12 @@ In the fall of 2022 I took a gap semester to fulfill my dream of traveling the w
 `2021/12 - 2022/02`
 **Stüürlade GmbH** Freelance Web-Developer
 
-> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
+> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), GraphQL, Node.js, and Tailwind.css.
 
 `2019/05 - 2022`
 **Weingut Stoll** Web-Developer (Pro bono)
 
-> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that interacts with data from headless CMS and commerce (Shopify) APIs.
+> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that queries content with GraphQL from headless CMS and eCommerce (Shopify) APIs.
 > The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _website traffic increase of 78% in the first six months_.
 
 `2019/10 - 2021/01`
@@ -88,9 +87,10 @@ Fluent in the English and German languages. Sound understanding of French.
 - C and Java
 - UNIX and Nix
 - Docker
-- Git and GitHub
+- Git
+- SQL (SQLite, PostgreSQL)
 - HTML and CSS
-- Frameworks: React, Next, Gatsby, Remix
+- Web-frameworks: React, Next, Gatsby, Remix
 
 ### Areas of experience
 
@@ -98,7 +98,7 @@ Fluent in the English and German languages. Sound understanding of French.
 - Cloud engineering and automation
 - Machine learning
 - Web-design
-- Embedded systems
+- Embedded systems (RTOS)
 - Testing
 
 ## Interests
@@ -107,7 +107,7 @@ Travel, Outdoors, Basketball, Watersports, and Cooking.
 
 ## Contact
 
-- **Address**: Steingutstrasse 32, 8200 Schaffhausen
+- **Address**: Steingutstrasse 32, 8200 Schaffhausen,<br> From 01.06.2023: Scheuchzerstrasse 3, 8006 Zürich
 - **Phone**: 076 365 7177
 - **E-Mail**: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
 - **Date of birth**: 19.07.1999
@@ -126,4 +126,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: March 2023 -->
+Last updated: May 2023 -->
