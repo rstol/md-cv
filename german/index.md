@@ -5,17 +5,26 @@ title: Romeo Stoll's CV
 
 <header>
   <div>
-    <h1>Romeo M. Stoll</h1>
+    <h1>Romeo Maurus Stoll</h1>
     <div id="webaddress">
-      <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
+      <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a>
     | <a href="tel:+41763657177">076 365 71 77</a>
     | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
   </div>
   </div>
-  <img src="../assets/RomeoStoll.jpg" alt="Bild von Romeo Stoll" id="profile-picture">
+  <img src="../assets/BewerbungsfotoSeite2022.jpg" alt="Bild von Romeo Stoll" id="profile-picture">
 </header>
 
 ## Berufliche Laufbahn
+
+`2023/10 - 2024/03`
+**Textshuttle AG** Praktikum Software Engineering
+
+`2023/07 - 2023/09`
+**Eightinks AG** Praktikum Software Engineering
+
+`2022/10 - 2023/04`
+**Zwischensemester** Reise durch Asien und Europa
 
 `2021/08 - 2022/07`
 **TopLearning GmbH, Schaffhausen** Nachhilfelehrer
@@ -39,7 +48,7 @@ title: Romeo Stoll's CV
 > Design und Entwicklung der Website [inboxyourstuff.de](https://inboxyourstuff.de) mit jQuery, HTML, CSS(Bootstrap) und PHP.
 
 `2019/02 - 2019/05`
-**Sahli Sicherheits AG** IT-Intern
+**Sahli Sicherheits AG** IT-Praktikum
 
 > Migrierte das CRM-System der Firma mit Produkt- und Kundendaten von einer alten Oracle-Datenbank auf ein neues browserbasiertes System. Meine Arbeit umfasste das Redesign und die Entwicklung der Firmenwebsite [sahli-sicherheit.ch](https://sahli-sicherheit.ch) mit PHP, jQuery, HTML & CSS (Bootstrap).
 
@@ -48,7 +57,7 @@ title: Romeo Stoll's CV
 
 ## Ausbildung
 
-`09/2019 - jetzt`
+`2019 - 2023`
 **ETH Zürich** Bachelor of Science ETH in Informatik
 
 > Meine Diplomarbeit trug den Titel _"Boosting flexibility in coding exercises by building containers in real time"_ – Note: 6.
@@ -78,7 +87,7 @@ Fliessende Beherrschung der deutschen (Muttersprache) und englischen Sprache. Gu
 
 ### Technische
 
-- Javascript
+- Javascript (Typescript)
 - Python
 - C und Java
 - UNIX und Nix
@@ -102,9 +111,9 @@ Reisen, Natur, Basketball, Wassersport und Kochen.
 
 ### Kontakt
 
-- **Adresse**: Steingutstrasse 32, 8200 Schaffhausen, <br> Ab 01.06.2023: Scheuchzerstrasse 3, 8006 Zürich
-- **Telefon**: 076 365 7177
-- **E-Mail**: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
+- **Adresse**: Seebahnstrasse 261, 8004 Zürich
+- **Telefon**: 076 365 71 77
+- **E-Mail**: [romeostoll@hey.com](mailto:romeostoll@hey.com)
 - **Geburtsdatum**: 19.07.1999
 - **Staatsangehörigkeit**: Schweiz
 
