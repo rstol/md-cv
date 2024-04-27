@@ -7,21 +7,21 @@ title: Romeo Stoll's CV
   <div>
     <h1>Romeo M. Stoll</h1>
     <div id="webaddress">
-      <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
+      <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a>
     | <a href="tel:+41763657177">076 365 71 77</a>
     | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
   </div>
   </div>
-  <img src="../assets/RomeoStoll.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
+  <img src="../assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
 ## Currently
 
-> I’m a Computer Science student at ETH Zürich shortly before graduation. In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation.
+> 
 
 ## Education
 
-`09/2019 - now`
+`09/2019 - 08/2023`
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
 > My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
@@ -32,6 +32,21 @@ title: Romeo Stoll's CV
 > Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
 
 ## Employment
+`04/2024 - now`
+**Naturnetz Ticino** Zivildienst
+
+`10/2023 - 03/2024`
+**Textshuttle AG** Internship Software Engineering
+>
+
+`07/2023 - 09/2023`
+**Eightinks AG** Internship Software Engineering
+
+>
+
+`10/2022 - 04/2023`
+**Gap Semester** Backpacking Europe & Asia
+
 
 `09/2022 - 09/2022`
 **Schweizer Armee** Angehöriger der Armee (WK)
@@ -46,12 +61,13 @@ title: Romeo Stoll's CV
 `12/2021 - 02/2022`
 **Stüürlade GmbH** Freelance Web-Developer
 
-> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), Node.js, and Tailwind.css.
+> Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), GraphQL, Node.js, and Tailwind.css.
 
 `06/2019 - 2022`
 **Weingut Stoll** Web-Developer (Pro bono)
 
-> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) using a serverless architecture that pulls data from a content-management-system and e-commerce (Shopify) API. The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors.
+> Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that queries content with GraphQL from headless CMS and eCommerce (Shopify) APIs.
+> The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _website traffic increase of 78% in the first six months_.
 
 `10/2019 - 01/2021`
 **Thea Schellhammer** Freelance Web-Developer
@@ -96,17 +112,18 @@ Fluent in the English and German languages. Sound understanding of French.
 - C and Java
 - UNIX and Nix
 - Docker
-- Git and GitHub
+- Git
+- SQL (SQLite, PostgreSQL)
 - HTML and CSS
+- Web-frameworks: React, React-Admin, Next, Gatsby, Remix
 
 ### Areas of experience
 
-- Software development
+- Full-stack applications
 - Cloud engineering and automation
-- Single-page applications
 - Machine learning
 - Web-design
-- Embedded systems
+- Embedded systems (RTOS)
 - Testing
 
 ## Interests
@@ -115,9 +132,9 @@ Travel, Outdoors, Basketball, Watersports, and Cooking.
 
 ## Contact
 
-- **Address**: Steingutstrasse 32, 8200 Schaffhausen
+- **Address**: Seebahnstrasse 261, 8004 Zürich
 - **Phone**: 076 365 7177
-- **E-Mail**: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
+- **E-Mail**: [romeostoll@hey.com](mailto:romeostoll@hey.com)
 - **Date of birth**: 19.07.1999
 - **Nationality**: Swiss
 

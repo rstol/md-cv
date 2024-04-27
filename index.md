@@ -7,12 +7,12 @@ title: Romeo Stoll's CV
   <div>
     <h1>Romeo M. Stoll</h1>
     <div id="webaddress">
-      <a href="mailto:stollr@ethz.student.ch">stollr@ethz.student.ch</a>
+      <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a>
     | <a href="tel:+41763657177">076 365 71 77</a>
     | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
   </div>
   </div>
-  <img src="assets/RomeoStoll.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
+  <img src="../assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
 <!-- ## Currently
@@ -107,9 +107,9 @@ Travel, Outdoors, Basketball, Watersports, and Cooking.
 
 ## Contact
 
-- **Address**: Steingutstrasse 32, 8200 Schaffhausen,<br> From 01.06.2023: Scheuchzerstrasse 3, 8006 Zürich
+- **Address**: Seebahnstrasse 261, 8004 Zürich
 - **Phone**: 076 365 7177
-- **E-Mail**: [stollr@ethz.student.ch](mailto:stollr@ethz.student.ch)
+- **E-Mail**: [romeostoll@hey.com](mailto:romeostoll@hey.com)
 - **Date of birth**: 19.07.1999
 - **Nationality**: Swiss
 
