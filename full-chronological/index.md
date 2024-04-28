@@ -15,9 +15,9 @@ title: Romeo Stoll's CV
   <img src="../assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
-## Currently
+<!-- ## Currently
 
-> 
+>  -->
 
 ## Education
 
@@ -25,6 +25,9 @@ title: Romeo Stoll's CV
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
 > My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
+
+`10/2022 - 04/2023`
+**Gap Semester** Backpacking Europe & Asia
 
 `2014 - 2018`
 **Kantonsschule Schaffhausen** Matura Diploma
@@ -35,17 +38,18 @@ title: Romeo Stoll's CV
 `04/2024 - now`
 **Naturnetz Ticino** Zivildienst
 
+`04/2024 - now`
+**Eightinks AG** Software Engineer Freelance
+
 `10/2023 - 03/2024`
-**Textshuttle AG** Internship Software Engineering
->
+**Textshuttle AG** Software Engineer Intern
+
+> As a member of the product team, I contributed to the entire AI translation process. My responsibilities included enhancing the translation user interface, implementing ML-driven term enforcement, developing an administrative dashboard for usage analytics, handling document translation across diverse formats, integrating LLM technology, and refining core data processing algorithms.
 
 `07/2023 - 09/2023`
-**Eightinks AG** Internship Software Engineering
+**Eightinks AG** Software Engineer Intern
 
->
-
-`10/2022 - 04/2023`
-**Gap Semester** Backpacking Europe & Asia
+> Engineered a cutting-edge system for battery engineers to swiftly analyze prototypes. Developed an automated pipeline handling millions of electrochemical data points, utilizing BigQuery, Docker, and MySQL in the backend, and Dash (Plotly) and Holoviews in the frontend for seamless visualization and analysis.
 
 
 `09/2022 - 09/2022`
@@ -107,24 +111,25 @@ Fluent in the English and German languages. Sound understanding of French.
 
 ### Technical
 
-- Javascript
-- Python
-- C and Java
+- Python (FastAPI, Pydantic)
+- Javascript (React.js, Typescript)
+- SQL (MySQL, SQLite, PostgreSQL)
 - UNIX and Nix
-- Docker
+- Docker (Compose)
 - Git
-- SQL (SQLite, PostgreSQL)
+- C and Java
 - HTML and CSS
-- Web-frameworks: React, React-Admin, Next, Gatsby, Remix
+- Web-frameworks: React-Admin, Next, Gatsby, Remix
 
 ### Areas of experience
 
 - Full-stack applications
-- Cloud engineering and automation
-- Machine learning
-- Web-design
+- APIs (REST, GraphQL)
+- Automation and cloud engineering
+- Machine learning, LLM
+- UI/UX-design
 - Embedded systems (RTOS)
-- Testing
+- Automated Testing
 
 ## Interests
 
