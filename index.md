@@ -20,6 +20,29 @@ I’m a Computer Science student at ETH Zürich shortly before graduation and lo
 In the fall of 2022 I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
 
 ## Employment
+`2024/04 - now` 
+**Eightinks AG** Software Developer 
+
+> Part-time (10-20%) enhance the data processing and interactive visualisation system built in the intership of 2023. 
+
+`2024/04 - 2024/08`
+**Naturnetz & Stiftung St. Jakob** Zivildienst
+
+`2023/10 - 2024/03`
+**Textshuttle AG** Internship Software Engineering
+
+> Development and testing of software for the productive operation of machine translation. Contribution to the backend (Python in Docker) as well as the frontend (TypeScript with React).
+> Examples: 
+> - Implementation of a dashboard to display usage data of the translation solution (Frontend).
+> - Extensive restructuring (Refactoring) of the logic for selecting the correct resources in translation requests (Backend).
+
+`2023/07 - 2023/09`
+**Eightinks AG** Internship Software Engineering
+
+> Developed an automated electrochemical battery data pipeline which extracts, transforms and loads millions of datapoints into BigQuery. The accompanying interactive visualisation dashboard (Plotly, Dash, Holoviews/Datashader) plots aggregations and raw test data.  
+
+`2022/10 - 2023/04`
+**Gap semester** Travel Europe and Asia
 
 `2021/08 - 2022/07`
 **TopLearning GmbH** Private Tutor
@@ -32,12 +55,12 @@ In the fall of 2022 I took a gap semester to fulfill my dream of traveling the w
 > Design, development, and deployment of the website [stüürlade.ch](https://stüürlade.ch) using React.js (Typescript), GraphQL, Node.js, and Tailwind.css.
 
 `2019/05 - 2022`
-**Weingut Stoll** Web-Developer (Pro bono)
+**Weingut Stoll** Web-Developer
 
 > Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that queries content with GraphQL from headless CMS and eCommerce (Shopify) APIs.
 > The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _website traffic increase of 78% in the first six months_.
 
-`2019/10 - 2021/01`
+<!-- `2019/10 - 2021/01`
 **Thea Schellhammer** Freelance Web-Developer
 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
@@ -45,27 +68,27 @@ In the fall of 2022 I took a gap semester to fulfill my dream of traveling the w
 `2019/02 - 2019/05`
 **Sahli Sicherheits AG** IT-Intern
 
-> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
-
+> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap). -->
+<!-- 
 `2018/06 - 2018/10`
-**Schweizer Armee** Angehöriger der Armee (RS)
+**Schweizer Armee** Angehöriger der Armee (RS) -->
 
 ## Education
 
 `09/2019 - now`
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
-> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – grade: 6.
+> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – CodeExpert Group ETH, Grade: 6.
 
 `2014 - 2018`
 **Kantonsschule Schaffhausen** Matura Diploma
 
-> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – grade: 6.
+> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – Grade: 6.
 
 ## Projects
 
 `2021/09 - 2022/04`
-**The future of computing**
+**The Future of Computing**
 
 > In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
 
@@ -78,19 +101,20 @@ In the fall of 2022 I took a gap semester to fulfill my dream of traveling the w
 
 ### Languages
 
-Fluent in the English and German languages. Sound understanding of French.
+Fluent in the English and German languages. Sound understanding of French, Italian.
 
 ### Technical
 
-- Javascript
-- Python
+- Python (Plotly, Dash, FastAPI, Pydantic)
+- Javascript (Typescript)
+- SQL (MySQL, PostgreSQL, BigQuery)
+- Docker (Compose)
 - C and Java
 - UNIX and Nix
-- Docker
 - Git
-- SQL (SQLite, PostgreSQL)
 - HTML and CSS
-- Web-frameworks: React, Next, Gatsby, Remix
+- Web-frameworks: React, Next, Remix
+- Ecommerce: Shopify Liquid and Storefront API
 
 ### Areas of experience
 
@@ -117,12 +141,12 @@ Travel, Outdoors, Basketball, Watersports, and Cooking.
 
 <!-- fa is fontawesome, ai are academicons -->
 
-<i class="fa fa-github"></i> <a href="http://github.com/rstol">rstol</a><br />
-<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
+- <i class="fa fa-github"></i> <a href="http://github.com/rstol">Github</a><br />
+- <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
 
-### References
+<!-- ### References
 
-Available on request.
+Available on request. -->
 
 <!-- ### Footer
 
