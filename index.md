@@ -60,7 +60,7 @@ In the fall of 2022 I took a gap semester to fulfill my dream of traveling the w
 > Developed and designed the company website [weingut-stoll.ch](https://weingut-stoll.ch) as a React frontend that queries content with GraphQL from headless CMS and eCommerce (Shopify) APIs.
 > The goal was a fast and user-friendly shopping experience with a mobile-first design that is easy to customize and edit by non-technical content editors. The key achievement was a _website traffic increase of 78% in the first six months_.
 
-<!-- `2019/10 - 2021/01`
+`2019/10 - 2021/01`
 **Thea Schellhammer** Freelance Web-Developer
 
 > Design and development of website [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, HTML, CSS(Bootstrap) and PHP.
@@ -68,10 +68,10 @@ In the fall of 2022 I took a gap semester to fulfill my dream of traveling the w
 `2019/02 - 2019/05`
 **Sahli Sicherheits AG** IT-Intern
 
-> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap). -->
-<!-- 
+> Migrated the company's CRM system with product and customer data from an old Oracle database to a new browser-based system. My work included redesigning and developing the company website [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with PHP, jQuery, HTML & CSS (Bootstrap).
+
 `2018/06 - 2018/10`
-**Schweizer Armee** Angehöriger der Armee (RS) -->
+**Schweizer Armee** Angehöriger der Armee (RS)
 
 ## Education
 
