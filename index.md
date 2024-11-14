@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Romeo Stoll's CV
+title: Romeo M. Stoll's CV
 ---
 
 <header>
@@ -8,7 +8,7 @@ title: Romeo Stoll's CV
     <h1>Romeo M. Stoll</h1>
     <div id="webaddress">
       <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a>
- | <a href="tel:+41763657177">076 365 71 77</a>
+ | <a href="tel:+41763657177">+41 76 365 71 77</a>
  | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
   </div>
   </div>
@@ -20,27 +20,40 @@ I’m a Computer Science student at ETH Zürich shortly before graduation and lo
 In the fall of 2022, I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
 
 ## Employment
-`2024/04 - 2024/10` 
-**Eightinks AG** Software Developer 
 
-> Part-time (10-20%). Enhancing the data processing and interactive visualization system built in the internship of 2023. 
+`2024/10 - now`
+**Supertext AG (former Textshuttle)** Software Engineer
+
+- Part-time (40%) position in an agile environment to develop and maintain machine translation software
+- Collaborate with cross-functional teams to deliver high-quality software solutions
+
+`2024/04 - 2024/10`
+**Eightinks AG** Software Developer
+
+- Part-time (10-20%) role continuing from previous internship focusing on enhancement of the battery data analytics platform
+- Scaled system to handle increased data volume and complexity
 
 `2024/04 - 2024/08`
-**Naturnetz & Stiftung St. Jakob** Zivildienst
+**Naturnetz AG and Stiftung St. Jakob** Zivildienst
 
 `2023/10 - 2024/03`
 **Textshuttle AG** Internship Software Engineering
 
-> Development and testing of software for the productive operation of machine translation. Contribution to the backend (Python, Docker, FastAPI, PostgreSQL, Azure) and the frontend (TypeScript, React, Nextjs).
-> Examples: 
-> - Implementation of an interactive dashboard to display usage data of the translation solution (Frontend).
-> - Extensive restructuring (Refactoring) of the logic for selecting the correct resources in translation requests (Backend).
+- Delivered key features for enterprise machine translation platform in agile environment
+- Demonstrated strong technical ownership and independent problem-solving abilities
+- Received exceptional feedback for effectively sharing knowledge with colleagues and actively participating in technical decision-making
+- Work Examples:
+  - Implementation of an interactive dashboard to display usage data of the translation solution using TypeScript, React, Nextjs.
+  - Extensive restructuring (Refactoring) of the logic for selecting the correct resources in translation requests using Python, Docker, FastAPI, PostgreSQL, Azure.
 
 `2023/07 - 2023/09`
-**Eightinks AG** Internship Software Engineering
+**8inks AG** Internship Software Engineering
 
-> Development of an automated electrochemical battery data pipeline that extracts, transforms, and loads millions of data points into vectorized database (BigQuery). Developed an accompanying interactive visualization dashboard that plots the loaded data for battery engineers. <br>
-> Tech stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly (Dash), Holoviews/Datashader
+- Led end-to-end development of battery (Big-) data processing system and interactive visualization dashboard as sole software engineer
+- Managed project lifecycle including requirements gathering, task prioritization, and deadline setting
+- Effectively translated complex technical requirements from battery engineers and CTO into actionable development tasks
+- Conducted weekly progress reviews and requirement refinement sessions with stakeholders
+- Tech stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly (Dash), Holoviews/Datashader
 
 `2022/10 - 2023/04`
 **Gap semester** Travel Europe and Asia
@@ -48,22 +61,19 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `2021/08 - 2022/07`
 **TopLearning GmbH** Private Tutor
 
-> Teaching groups of students from different levels, ranging from secondary school to university a variety of subjects, with a focus on mathematics and natural science.
+- Teaching groups of students from secondary school to university levels in a variety of subjects (mainly STEM).
 
 `2019/10 - 2023`
-**Freelance Web-Developer**
+**Freelance Web Developer**
 
-> **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Nextjs (React, Typescript), GraphQL (PrismicCMS) and Tailwind.css.
-
-> **Weingut Stoll**: Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js (Typescript) that sources the page content with GraphQL from the CMS and Shopify APIs.
-> A fast and user-friendly shopping experience with a mobile-first design was achieved. The _website traffic increase by 78% in the first six months_.
-
-> **Thea Schellhammer**: Design and development of [inboxyourstuff.de](https://inboxyourstuff.de) (jQuery, Wordpress).
+> - **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Next.js and headless CMS.
+> - **Weingut Stoll**: Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js, headless CMS and Shopify APIs. The **website traffic increased by 78% in the first six months** after launch.
+> - **Thea Schellhammer**: Design and development of [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, Wordpress.
 
 `2019/02 - 2019/05`
-**Sahli Sicherheits AG** IT-Intern
+**Sahli Sicherheits AG** IT-Internship
 
-> Migrated the company's CRM system from an old Oracle database to a new browser-based system. Redesign and web-development of [sahli-sicherheit.ch](https://sahli-sicherheit.ch) with Wordpress, jQuery.
+- Migration of company ERP system from on-prem to the cloud. Design and development of [sahli-sicherheit.ch](https://sahli-sicherheit.ch).
 
 `2018/06 - 2018/10`
 **Schweizer Armee** Angehöriger der Armee (RS)
@@ -76,71 +86,77 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `09/2019 - 08/2023`
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
-> My thesis was titled _"Boosting flexibility in coding exercises by building containers in real time"_ – CodeExpert Group ETH, Grade: 6.
+> Thesis on _"Boosting flexibility in coding exercises by building containers in real time"_ – CodeExpert Group ETH, Grade: 6.
 
 `2014 - 2018`
 **Kantonsschule Schaffhausen** Matura Diploma
 
-> Direction: Natural Sciences, Core subject: Economics, Business & Law. Final unweighted average grade: 5.1. My "Maturaarbeit" was titled _"Werden die Reichen immer reicher?"_ – Grade: 6.
+> Core subject: Economics, Business & Law. Maturaarbeit on _"Werden die Reichen immer reicher?"_
 
-## Projects
+## Leadership & Entrepreneurship
 
 `2021/09 - 2022/04`
 **The Future of Computing**
 
-> In the _Case Studies from Practice Seminar_ I worked together with D. Vetter in an _IBM Academy Initiative_ led by [Christian Eggenberger](https://www.linkedin.com/in/christianeggenberger/). We examined the future of Quantum, Neuromorphic, and In-Memory computing. We presented our analysis of the three technologies before _IBM_ representatives, at the _ETH CAS in Applied Information Technology_ graduation event, and as an internal _IBM_ blog post.
+- Collaborated on a _IBM Academy Initiative_ examining emerging computing technologies: Quantum, Neuromorphic, and In-Memory computing
+- Presented comprehensive analysis to multiple stakeholders: _IBM_ representatives, academic presentation at ETH CAS graduation event, published as internal IBM blog post.
 
-<!-- `2016 - 2017`
-**flavourized.**
+`2016 - 2017`
+**flavourized.** Founder & Team Lead (Young Enterprise Switzerland Company Program)
 
-> I participated in the _Young Enterprise Switzerland Company Program_ and led the _flavourized._-team of five classmates. Our start-up developed a reusable bottle that encouraged drinking water by adding extra flavor. We raised funds from individual investors and sold directly to customers online and at events using a custom sales booth.
+- Developed and brought to market an innovative reusable water bottle product
+- Managed full business lifecycle from concept to market entry and successful exit
+- Secured funding from individual investors and established direct-to-consumer sales channels
+- Designed and executed marketing strategy including event presence and online sales
 
-## Skills -->
+## Skills
 
 ### Languages
 
-Fluent in the English and German languages. Sound understanding of French, Italian.
+Fluent in the English and German languages. Sound understanding of French, and Italian.
 
-### Technical
+### Software Development
 
-- Python (Plotly, Dash, FastAPI, Pydantic)
-- Javascript (Typescript)
-- SQL (MySQL, PostgreSQL, BigQuery)
-- Docker (Compose)
-- C and Java
-- UNIX and Nix
-- Git
-- HTML and CSS
-- Javascript-frameworks: React, Next, Remix, Node
-- E-commerce: Shopify Liquid and Storefront API
-
-### Areas of experience
-
-- Full-stack applications
-- Cloud engineering and automation
-- Machine learning, Natural Language Processing, LLM (vLLM)
-- Web-design
-- Embedded systems (RTOS)
-- Testing
-
-## Interests
-
-Travel, Outdoors, Basketball, Watersports, and Cooking.
+  <ul class="two-column-list">
+    <li>Frontend: TypeScript, React.js, Next.js, Remix, CSS (Tailwind, Chakra-UI)</li>
+    <li>Backend: Python (FastAPI, Pydantic), Node.js, Java, C</li>
+    <li>Databases: PostgreSQL, MySQL, BigQuery</li>
+    <li>E-commerce Solutions: Shopify (Liquid, Storefront API)</li>
+  </ul>
+  
+### Infrastructure & DevOps
+  <ul class="two-column-list">
+    <li>Cloud Engineering & Automation</li>
+    <li>Containerization: Docker, Docker Compose</li>
+    <li>Version Control: Git, CI/CD pipelines</li>
+    <li>Systems: UNIX, Nix</li>
+  </ul>
+  
+### Specialized Domains
+  <ul class="two-column-list">
+    <li>Machine Learning & NLP: LLM implementation</li>
+    <li>Data Visualization: Plotly, Dash</li>
+    <li>Embedded Systems: RTOS</li>
+    <li>Web Design & UI/UX</li>
+  </ul>
 
 ## Contact
 
-- **Address**: Seebahnstrasse 261, 8004 Zürich
-- **Phone**: 076 365 7177
-- **E-Mail**: [romeostoll@hey.com](mailto:romeostoll@hey.com)
-- **Date of birth**: 19.07.1999
-- **Nationality**: Swiss
+<ul class="two-column-list">
+<li><strong>Address</strong>: Seebahnstrasse 261, 8004 Zürich</li>
+<li><strong>Phone</strong>: +41 76 365 7177</li>
+<li><strong>E-Mail</strong>: <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a></li>
+<li><strong>Date of birth</strong>: 19.07.1999</li>
+<li><strong>Nationality</strong>: Swiss</li>
+</ul>
 
 ### Links
 
 <!-- fa is fontawesome, ai are academicons -->
-
-- <i class="fa fa-github"></i> <a href="http://github.com/rstol">Github</a><br />
-- <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a>
+<ul class="two-column-list">
+<li><i class="fa fa-github"></i> <a href="http://github.com/rstol">Github</a></li>
+<li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a></li>
+</ul>
 
 <!-- ### References
 

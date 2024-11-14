@@ -91,11 +91,14 @@ p strong {
 ul {
   margin-bottom: 1.5em;
 	/* margin-top: 1em; */
-  columns: 2;
   max-width: 90ch;
+  margin-left: 1em;
+}
+
+.two-column-list {
+  columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  margin-left: 1em;
 }
 
 li ul {
