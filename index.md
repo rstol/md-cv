@@ -12,7 +12,7 @@ title: Romeo M. Stoll's CV
  | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
   </div>
   </div>
-  <img src="/md-cv/assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
+  <img src="/../assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
 <!-- ## Currently
@@ -34,7 +34,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 - Scaled system to handle increased data volume and complexity
 
 `2024/04 - 2024/08`
-**Naturnetz AG and Stiftung St. Jakob** Zivildienst
+**Naturnetz AG and Stiftung St. Jakob** Alternative Service (in lieu of military service)
 
 `2023/10 - 2024/03`
 **Textshuttle AG** Internship Software Engineering
@@ -49,7 +49,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `2023/07 - 2023/09`
 **8inks AG** Internship Software Engineering
 
-- Led end-to-end development of battery (Big-) data processing system and interactive visualization dashboard as sole software engineer
+- Led end-to-end development of battery (big) data processing system and interactive visualization dashboard as sole software engineer
 - Managed project lifecycle including requirements gathering, task prioritization, and deadline setting
 - Effectively translated complex technical requirements from battery engineers and CTO into actionable development tasks
 - Conducted weekly progress reviews and requirement refinement sessions with stakeholders
@@ -76,7 +76,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 - Migration of company ERP system from on-prem to the cloud. Design and development of [sahli-sicherheit.ch](https://sahli-sicherheit.ch).
 
 `2018/06 - 2018/10`
-**Schweizer Armee** Angehöriger der Armee (RS)
+**Schweizer Armee** Member of the Swiss Armed Forces
 
 ## Education
 
