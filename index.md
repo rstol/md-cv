@@ -22,13 +22,13 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 ## Employment
 
 `2024/10 - now`
-**Supertext AG (former Textshuttle)** Software Engineer
+**Supertext AG (former Textshuttle)** Full-Stack Software Engineer
 
 - Part-time (40%) position in an agile environment to develop and maintain machine translation software
 - Collaborate with cross-functional teams to deliver high-quality software solutions
 
 `2024/04 - 2024/10`
-**Eightinks AG** Software Developer
+**Eightinks AG** Full-Stack Software Developer
 
 - Part-time (10-20%) role continuing from previous internship focusing on enhancement of the battery data analytics platform
 - Scaled system to handle increased data volume and complexity
@@ -47,11 +47,11 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
   - Extensive restructuring (Refactoring) of the logic for selecting the correct resources in translation requests using Python, Docker, FastAPI, PostgreSQL, Azure.
 
 `2023/07 - 2023/09`
-**8inks AG** Internship Software Engineering
+**Eightinks AG** Internship Software Engineering
 
-- Led end-to-end development of battery (big) data processing system and interactive visualization dashboard as sole software engineer
+- Led end-to-end development of battery (big) data processing system and interactive visualization dashboard
 - Managed project lifecycle including requirements gathering, task prioritization, and deadline setting
-- Effectively translated complex technical requirements from battery engineers and CTO into actionable development tasks
+- Effectively translated complex technical requirements from battery engineers and CTO into tasks
 - Conducted weekly progress reviews and requirement refinement sessions with stakeholders
 - Tech stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly (Dash), Holoviews/Datashader
 
@@ -107,37 +107,37 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 - Developed and brought to market an innovative reusable water bottle product
 - Managed full business lifecycle from concept to market entry and successful exit
 - Secured funding from individual investors and established direct-to-consumer sales channels
-- Designed and executed marketing strategy including event presence and online sales
+<!-- - Designed and executed marketing strategy including event presence and online sales -->
 
 ## Skills
 
 ### Languages
 
-Fluent in the English and German languages. Sound understanding of French, and Italian.
+Fluent in the English and German languages. Learning French and Italian.
 
 ### Software Development
 
   <ul class="two-column-list">
-    <li>Frontend: TypeScript, React.js, Next.js, Remix, CSS (Tailwind, Chakra-UI)</li>
-    <li>Backend: Python (FastAPI, Pydantic), Node.js, Java, C</li>
+    <li>Frontend: TypeScript, React.js, Next.js, CSS (Tailwind)</li>
+    <li>Backend: Python, Node.js, Java, C++</li>
     <li>Databases: PostgreSQL, MySQL, BigQuery</li>
     <li>E-commerce Solutions: Shopify (Liquid, Storefront API)</li>
   </ul>
   
 ### Infrastructure & DevOps
   <ul class="two-column-list">
-    <li>Cloud Engineering & Automation</li>
+    <li>Automation & CI/CD pipelines</li>
     <li>Containerization: Docker, Docker Compose</li>
-    <li>Version Control: Git, CI/CD pipelines</li>
+    <li>Version Control: Git</li>
     <li>Systems: UNIX, Nix</li>
   </ul>
   
 ### Specialized Domains
   <ul class="two-column-list">
     <li>Machine Learning & NLP: LLM implementation</li>
-    <li>Data Visualization: Plotly, Dash</li>
-    <li>Embedded Systems: RTOS</li>
+    <li>Data Analysis & Interactive Visualization: Pandas, Dash</li>
     <li>Web Design & UI/UX</li>
+    <li>Embedded Systems: RTOS</li>
   </ul>
 
 ## Contact
