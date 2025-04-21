@@ -9,10 +9,11 @@ title: Romeo M. Stoll's CV
     <div id="webaddress">
       <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a>
  | <a href="tel:+41763657177">+41 76 365 71 77</a>
- | <i class="fa fa-github"></i> <a href="https://github.com/rstol">rstol</a>
+ | <i class="fa fa-github"></i> <a href="https://github.com/rstol">Github</a>
+ | <i class="fa fa-link"></i> <a href="https://romeostoll.com">Website</a>
   </div>
   </div>
-  <img src="/../assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
+  <img src="assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
 <!-- ## Currently
@@ -21,22 +22,20 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 
 ## Employment
 
-`2024/10 - now`
+`Oct 2024 - Mar 2025 · 6 mos`
 **Supertext AG (former Textshuttle)** Full-Stack Software Engineer
 
-- Part-time (40%) position in an agile environment to develop and maintain machine translation software
-- Collaborate with cross-functional teams to deliver high-quality software solutions
+- Part-time (40%) position in the development, operation and maintenance of systems for machine translation
+- Focus: adaptation and improvement of front-end applications for machine translation as well as payment processes and management of professional translation orders (React, NextJS)
+- Implementation of web design proposals (Figma, Headless CMS)
 
-`2024/04 - 2024/10`
+`Apr 2024 - Oct 2024 · 6 mos`
 **Eightinks AG** Full-Stack Software Developer
 
 - Part-time (10-20%) role continuing from previous internship focusing on enhancement of the battery data analytics platform
 - Scaled system to handle increased data volume and complexity
 
-`2024/04 - 2024/08`
-**Naturnetz AG and Stiftung St. Jakob** Alternative Service (in lieu of military service)
-
-`2023/10 - 2024/03`
+`Oct 2023 - Mar 2024 · 6 mos`
 **Textshuttle AG** Internship Software Engineering
 
 - Delivered key features for enterprise machine translation platform in agile environment
@@ -46,7 +45,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
   - Implementation of an interactive dashboard to display usage data of the translation solution using TypeScript, React, Nextjs.
   - Extensive restructuring (Refactoring) of the logic for selecting the correct resources in translation requests using Python, Docker, FastAPI, PostgreSQL, Azure.
 
-`2023/07 - 2023/09`
+`Jul 2023 - Sep 2023 · 3 mos`
 **Eightinks AG** Internship Software Engineering
 
 - Led end-to-end development of battery (big) data processing system and interactive visualization dashboard
@@ -55,35 +54,35 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 - Conducted weekly progress reviews and requirement refinement sessions with stakeholders
 - Tech stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly (Dash), Holoviews/Datashader
 
-`2022/10 - 2023/04`
+`Oct 2022 - Apr 2023 · 7 mos`
 **Gap semester** Travel Europe and Asia
 
-`2021/08 - 2022/07`
+`Aug 2021 - Jul 2022 · 12 mos`
 **TopLearning GmbH** Private Tutor
 
 - Teaching groups of students from secondary school to university levels in a variety of subjects (mainly STEM).
 
-`2019/10 - 2023`
+`Apr 2020 - 2022 · 2 yrs`
 **Freelance Web Developer**
 
 > - **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Next.js and headless CMS.
-> - **Weingut Stoll**: Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js, headless CMS and Shopify APIs. The **website traffic increased by 78% in the first six months** after launch.
+> - **Weingut Stoll**: (Pro-bono) Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js, headless CMS and Shopify APIs. **Website traffic increased by 78% in the first six months** after launch.
 > - **Thea Schellhammer**: Design and development of [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, Wordpress.
 
-`2019/02 - 2019/05`
+<!-- `2019/02 - 2019/05`
 **Sahli Sicherheits AG** IT-Internship
 
-- Migration of company ERP system from on-prem to the cloud. Design and development of [sahli-sicherheit.ch](https://sahli-sicherheit.ch).
+- Migration of company ERP system from on-prem to the cloud. Design and development of [sahli-sicherheit.ch](https://sahli-sicherheit.ch). -->
 
-`2018/06 - 2018/10`
+`Jun 2018 - Oct 2018 · 5 mos`
 **Schweizer Armee** Member of the Swiss Armed Forces
 
 ## Education
 
-`09/2024 - now`
+`Sep 2024 - now`
 **ETH Zürich** Master of Science ETH MTEC (Management, Technology, and Economics)
 
-`09/2019 - 08/2023`
+`Sep 2019 - Aug 2023 · 4 yrs`
 **ETH Zürich** Bachelor of Science ETH in Computer Science
 
 > Thesis on _"Boosting flexibility in coding exercises by building containers in real time"_ – CodeExpert Group ETH, Grade: 6.
@@ -95,7 +94,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 
 ## Leadership & Entrepreneurship
 
-`2021/09 - 2022/04`
+`Sept 2021 - Apr 2022`
 **The Future of Computing**
 
 - Collaborated on a _IBM Academy Initiative_ examining emerging computing technologies: Quantum, Neuromorphic, and In-Memory computing
@@ -113,11 +112,11 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 
 ### Languages
 
-Fluent in the English and German languages. Learning French and Italian.
+Fluent in English and German. Learning French and Italian.
 
 ### Software Development
 
-  <ul class="two-column-list">
+  <ul class="auto-grid">
     <li>Frontend: TypeScript, React.js, Next.js, CSS (Tailwind)</li>
     <li>Backend: Python, Node.js, Java, C++</li>
     <li>Databases: PostgreSQL, MySQL, BigQuery</li>
@@ -125,24 +124,24 @@ Fluent in the English and German languages. Learning French and Italian.
   </ul>
   
 ### Infrastructure & DevOps
-  <ul class="two-column-list">
-    <li>Automation & CI/CD pipelines</li>
+  <ul class="auto-grid">
     <li>Containerization: Docker, Docker Compose</li>
+    <li>Automation & CI/CD pipelines</li>
     <li>Version Control: Git</li>
     <li>Systems: UNIX, Nix</li>
   </ul>
   
 ### Specialized Domains
-  <ul class="two-column-list">
-    <li>Machine Learning & NLP: LLM implementation</li>
+  <ul class="auto-grid">
     <li>Data Analysis & Interactive Visualization: Pandas, Dash</li>
+    <li>Machine Learning & NLP</li>
     <li>Web Design & UI/UX</li>
     <li>Embedded Systems: RTOS</li>
   </ul>
 
 ## Contact
 
-<ul class="two-column-list">
+<ul class="auto-grid">
 <li><strong>Address</strong>: Seebahnstrasse 261, 8004 Zürich</li>
 <li><strong>Phone</strong>: +41 76 365 7177</li>
 <li><strong>E-Mail</strong>: <a href="mailto:romeostoll@hey.com">romeostoll@hey.com</a></li>
@@ -153,9 +152,10 @@ Fluent in the English and German languages. Learning French and Italian.
 ### Links
 
 <!-- fa is fontawesome, ai are academicons -->
-<ul class="two-column-list">
+<ul>
 <li><i class="fa fa-github"></i> <a href="http://github.com/rstol">Github</a></li>
 <li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/romeo-stoll-276238171">LinkedIn</a></li>
+<li><i class="fa fa-link"></i> <a href="https://romeostoll.com">Website</a></li>
 </ul>
 
 <!-- ### References
