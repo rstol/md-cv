@@ -185,12 +185,12 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
       <tr>
         <td><strong>Frontend Development</strong><small>TypeScript, React.js, Next.js, CSS</small></td>
         <td><div class="skill-level" data-level="5"></div></td>
-        <td><span class="focus-indicator">⭐</span></td>
+        <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
         <td><strong>Backend Development</strong><small>Python, Node.js, Java, C++</small></td>
         <td><div class="skill-level" data-level="4"></div></td>
-        <td><span class="focus-indicator">⭐</span></td>
+        <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
         <td><strong>Databases</strong><small>PostgreSQL, MySQL, BigQuery</small></td>
@@ -215,12 +215,12 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
       <tr>
         <td><strong>Data Analysis & Automation</strong></td>
         <td><div class="skill-level" data-level="4"></div></td>
-        <td><span class="focus-indicator">⭐</span></td>
+        <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
         <td><strong>Visualization, UI/UX</strong></td>
         <td><div class="skill-level" data-level="4"></div></td>
-        <td><span class="focus-indicator">⭐</span></td>
+        <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
         <td><strong>Languages</strong><small>English (Fluent), German (Native)</small></td>
@@ -236,7 +236,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
   </table>
   <div class="skills-legend">
     <span><strong>Strength:</strong> <span class="legend-dots">●●●●●</span> Expert | <span class="legend-dots">●●●●○</span> Advanced | <span class="legend-dots">●●●○○</span> Intermediate</span>
-    <span><strong>Focus:</strong> <span class="focus-indicator">⭐</span> Primary focus area</span>
+    <span><strong>Focus:</strong> <span class="focus-indicator">★</span> Primary focus area</span>
   </div>
 </div>
 

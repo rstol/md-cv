@@ -351,6 +351,7 @@ strong {
 
 .skill-level {
   display: inline-block;
+  font-size: 1.1em;
 }
 
 .skill-level[data-level='5']::after {
@@ -379,7 +380,8 @@ strong {
 }
 
 .focus-indicator {
-  color: #64748b;
+  color: #3b82f6;
+  font-size: 1.4em;
   display: inline-block;
 }
 
