@@ -1,226 +1,29 @@
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-  display: block;
-}
-body {
-  line-height: 1;
-}
-blockquote,
-q {
-  quotes: none;
-}
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+@import url('romeostoll-base.css');
 
-/* end of reset */
-
-blockquote {
-  margin-bottom: 1.5em;
-  max-width: 80ch;
-}
-
-blockquote p {
-  margin-top: 0.2em;
-}
+/* Screen-specific overrides */
 
 body {
-  font: normal normal 400;
-  max-width: 1024px;
-  margin: 0 auto;
   font-size: 18px;
-  line-height: 1.5em;
-  /*also written as...  font: normal normal 400 100%/1.5em;*/
-  font-family: Avenir, Verdana, sans-serif;
+  line-height: 1.4;
   padding: 4rem 1em;
 }
 
-p {
-  margin-top: 0.5em;
-}
-
-code {
-  font: normal normal;
-  font-size: 90%;
-  /*line-height: 1em;*/
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  letter-spacing: -0.25px;
-  color: #94a3b8;
-}
-
-p code {
-  float: right;
-}
-
-p strong {
-  font-size: 110%;
-}
-
 header {
-  display: flex;
-  justify-content: space-between;
+  gap: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.header-content h1 {
+  margin-bottom: 0.5em;
 }
 
 ul {
   margin-bottom: 1.5em;
-  /* margin-top: 1em; */
-  max-width: 90ch;
-  margin-left: 1em;
-}
-
-.auto-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 0.75rem 1.25rem;
-}
-
-.auto-grid li {
-  break-inside: avoid;
-}
-
-h1,
-h2,
-h3,
-h4 {
-  font-weight: 400;
-  font-family: Avenir, Cousine, Verdana, sans-serif;
-}
-
-h1 {
-  font-size: 2.25em;
-  line-height: 1em;
-}
-
-h1 + p {
-  /*subtitle*/
-  font-style: italic;
-  font-size: 110%;
-  text-align: center;
 }
 
 h2 {
-  display: flex;
-  font-weight: 600;
   font-size: 1.5em;
-  color: #334155;
-  margin-top: 1.25em;
-  margin-bottom: 0.5em;
   top: 1.4em;
-  width: 100%;
-}
-
-h2::after {
-  border-bottom: 1.7px solid #e2e8f0;
-  height: 0.8em;
-  margin-left: 10px;
-  content: '';
-  flex: 1;
 }
 
 h2 + h3 {
@@ -228,53 +31,113 @@ h2 + h3 {
 }
 
 h3 {
-  font-size: 1.1em;
-  font-weight: 600;
-  color: #334155;
   margin-bottom: 0.5em;
-  line-height: 1.3em;
   margin-top: 1.5em;
 }
 
-a {
-  color: inherit;
-  /*text-decoration:none*/
+.contact-info {
+  gap: 0.5em;
+  margin-top: 0.75em;
 }
 
-a:hover {
-  color: #39f;
+.contact-primary {
+  gap: 1em 1.5em;
 }
 
-#webaddress {
-  margin-top: 1em;
-  color: #64748b;
-  letter-spacing: -0.25px;
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  font-size: 80%;
+.contact-secondary {
+  gap: 0.75em 1.5em;
+  font-size: 0.85em;
 }
 
-em {
-  /* font-weight: bold; */
-  font-style: italic;
+.contact-item {
+  gap: 0.4em;
 }
 
-strong {
-  font-weight: bold;
+.contact-item a {
+  text-decoration: underline;
 }
 
-#address {
-  display: none;
+.social-links {
+  gap: 1em;
+  margin-top: 0.25em;
+}
+
+.social-link {
+  gap: 0.4em;
+  font-size: 0.85em;
+}
+
+.social-link i {
+  font-size: 1em;
 }
 
 #profile-picture {
-  overflow: hidden;
   height: full;
-  width: 80px;
-  object-fit: contain;
-  object-position: center;
 }
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+.skills-matrix {
+  margin: 1em 0;
+}
+
+.skills-matrix table {
+  margin-bottom: 0.5em;
+}
+
+.skills-matrix th {
+  padding: 0.4em 0.4em;
+}
+
+.skills-matrix td {
+  padding: 0.5em 0.4em;
+}
+
+.skills-matrix td:first-child {
+  min-width: 180px;
+}
+
+.skills-matrix td strong {
+  margin-right: 0.4em;
+}
+
+.skill-level {
+  min-width: 90px;
+}
+
+.skill-level[data-level='5']::after {
+  letter-spacing: 0.15em;
+}
+
+.skill-level[data-level='4']::after {
+  letter-spacing: 0.15em;
+}
+
+.skill-level[data-level='3']::after {
+  letter-spacing: 0.15em;
+}
+
+.skill-level[data-level='2']::after {
+  letter-spacing: 0.15em;
+}
+
+.skill-level[data-level='1']::after {
+  letter-spacing: 0.15em;
+}
+
+.focus-indicator {
+  font-size: 1em;
+}
+
+.skills-legend {
+  margin-top: 0.5em;
+  gap: 1em;
+  font-size: 0.75em;
+  padding-left: 0.4em;
+}
+
+.skills-legend span {
+  gap: 0.5em;
+}
+
+.legend-dots {
+  letter-spacing: 0.15em;
+}

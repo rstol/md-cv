@@ -1,279 +1,164 @@
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-  display: block;
-}
-body {
-  line-height: 1;
-}
-blockquote,
-q {
-  quotes: none;
-}
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+@import url('romeostoll-base.css');
 
-/* end of reset */
+/* Print-specific overrides */
+
+body {
+  font-size: 14px;
+  line-height: 1.45em;
+  padding: 0;
+}
 
 blockquote {
-  margin-bottom: 1.5em;
-  max-width: 80ch;
+  margin-bottom: 1.2em;
 }
 
 blockquote p {
-  margin-top: 0.2em;
-}
-
-body {
-  font: normal normal 400;
-  max-width: 1024px;
-  margin: 0 auto;
-  font-size: 14px;
-  line-height: 1.5em;
-  /*also written as...  font: normal normal 400 100%/1.5em;*/
-  font-family: Avenir, Verdana, sans-serif;
-  padding: 0;
+  margin-top: 0.15em;
 }
 
 p {
-  margin-top: 0.5em;
-}
-
-code {
-  font: normal normal;
-  font-size: 90%;
-  /*line-height: 1em;*/
-  letter-spacing: -0.25px;
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  color: #94a3b8;
-}
-
-p code {
-  float: right;
-}
-
-p strong {
-  font-size: 110%;
-}
-
-ul {
-  margin-bottom: 1.25em;
-  /* margin-top: 1em; */
-  max-width: 90ch;
-  margin-left: 1em;
-}
-
-.auto-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 0.75rem 1.25rem;
-}
-
-.auto-grid li {
-  break-inside: avoid;
+  margin-top: 0.4em;
 }
 
 header {
-  display: flex;
-  justify-content: space-between;
+  gap: 1em;
+  margin-bottom: 0.75em;
 }
 
-h1,
-h2,
-h3,
-h4 {
-  font-weight: 400;
-  font-family: Avenir, Cousine, Verdana, sans-serif;
+.header-content h1 {
+  margin-bottom: 0.3em;
 }
 
-h1 {
-  font-size: 2.25em;
-  line-height: 1em;
-}
-
-h1 + p {
-  /*subtitle*/
-  font-style: italic;
-  font-size: 110%;
-  text-align: center;
+ul {
+  margin-bottom: 1em;
 }
 
 h2 {
-  display: flex;
-  font-weight: 600;
   font-size: 1.4em;
-  color: #334155;
-  margin-top: 1.25em;
-  margin-bottom: 0.5em;
-  width: 100%;
-}
-
-h2::after {
-  border-bottom: 1.7px solid #e2e8f0;
-  height: 0.8em;
-  margin-left: 10px;
-  content: '';
-  flex: 1;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
 }
 
 h2 + h3 {
-  margin-top: 0.75em;
+  margin-top: 0.6em;
 }
 
 h3 {
-  font-size: 1.1em;
-  font-weight: 600;
-  color: #334155;
-  margin-bottom: 0.4em;
-  line-height: 1.3em;
-  margin-top: 1.25em;
+  margin-bottom: 0.3em;
+  margin-top: 1em;
 }
 
 a {
-  color: inherit;
+  text-decoration: underline;
+}
+
+.contact-info {
+  gap: 0.25em;
+  margin-top: 0.4em;
+}
+
+.contact-primary {
+  gap: 0.75em 1.25em;
+}
+
+.contact-secondary {
+  gap: 0.5em 1.25em;
+  font-size: 0.75em;
+}
+
+.contact-item {
+  gap: 0.3em;
+}
+
+.contact-item a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #39f;
+.social-links {
+  gap: 0.75em;
+  margin-top: 0.2em;
 }
 
-#webaddress {
-  margin-top: 1em;
-  color: #64748b;
-  letter-spacing: -0.25px;
+.social-link {
+  gap: 0.3em;
+  font-size: 0.75em;
   font-family: Monaco, Menlo, monospace, sans-serif;
-  font-size: 80%;
+  text-decoration: none;
+  letter-spacing: -0.25px;
 }
 
-em {
-  /* font-weight: bold; */
-  font-style: italic;
-}
-
-strong {
-  font-weight: bold;
-}
-
-#address {
-  display: none;
+.social-link i {
+  font-size: 0.85em;
 }
 
 #profile-picture {
-  overflow: hidden;
   height: auto;
-  width: 80px;
-  object-fit: contain;
-  object-position: center;
 }
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+.skills-matrix {
+  margin: 0.6em 0;
+}
+
+.skills-matrix table {
+  margin-bottom: 0.4em;
+}
+
+.skills-matrix th {
+  padding: 0.35em 0.3em;
+}
+
+.skills-matrix td {
+  padding: 0.4em 0.3em;
+  font-size: 0.9em;
+}
+
+.skills-matrix td:first-child {
+  min-width: 160px;
+}
+
+.skills-matrix td strong {
+  margin-right: 0.3em;
+}
+
+.skills-matrix td small {
+  font-size: 0.75em;
+}
+
+.skill-level {
+  min-width: 80px;
+}
+
+.skill-level[data-level='5']::after {
+  letter-spacing: 0.1em;
+}
+
+.skill-level[data-level='4']::after {
+  letter-spacing: 0.1em;
+}
+
+.skill-level[data-level='3']::after {
+  letter-spacing: 0.1em;
+}
+
+.skill-level[data-level='2']::after {
+  letter-spacing: 0.1em;
+}
+
+.skill-level[data-level='1']::after {
+  letter-spacing: 0.1em;
+}
+
+.skills-legend {
+  margin-top: 0.4em;
+  font-size: 0.75em;
+  gap: 0.75em;
+  padding-left: 0.4em;
+}
+
+.skills-legend span {
+  gap: 0.4em;
+}
+
+.legend-dots {
+  letter-spacing: 0.1em;
+}
