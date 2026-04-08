@@ -20,12 +20,6 @@ title: Romeo M. Stoll's CV
           <i class="fa fa-map-marker"></i>
           <span>Seebahnstrasse 261, 8004 Zürich</span>
         </span>
-      </div>
-      <div class="contact-secondary">
-        <span class="contact-item">Date of birth: 19.07.1999</span>
-        <span class="contact-item">Nationality: Swiss</span>
-      </div>
-      <div class="social-links">
         <a href="http://github.com/rstol" class="social-link">
           <i class="fa fa-github"></i>
           <span>Github</span>
@@ -39,113 +33,115 @@ title: Romeo M. Stoll's CV
           <span>Website</span>
         </a>
       </div>
+      <div class="contact-secondary">
+        <span class="contact-item">Date of birth: 19.07.1999</span>
+        <span class="contact-item">Nationality: Swiss</span>
+      </div>
     </div>
   </div>
   <img src="assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
-<!-- ## Currently
-I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realizing ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
+## Profile
+
+ETH Zürich-trained engineer (BSc Computer Science, MSc MTEC — Management, Technology & Economics) pivoting into product management and strategy. I bring four years of hands-on software engineering experience across startups and research labs, alongside a master’s thesis in which I am designing and evaluating an LLM agent system for enterprise reinsurance. Looking for a first full-time role at the intersection of technical depth and business decisions — translating between the two. Open to growth-stage companies, corporates, consulting, and relocation.
+
+<!-- I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realizing ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
 In the fall of 2022, I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
 
 ## Education
 
 `Sep 2024 - Sep 2026`
-**ETH Zürich** Master of Science ETH MTEC (Management, Technology, and Economics)
+**ETH Zürich** MSc ETH MTEC — Management, Technology, and Economics)
+
+> Master's thesis (in progress): Designing an LLM agent system for expert decision support in reinsurance underwriting. Combines retrieval-augmented generation, agent self-improvement from expert feedback, and an LLM-as-judge evaluation framework. Deployed on Palantir Foundry AIP.
 
 `Sep 2019 - Aug 2023`
-**ETH Zürich** Bachelor of Science ETH in Computer Science
+**ETH Zürich** BSc ETH Computer Science
 
-> Thesis: Boosting flexibility in coding exercises by building containers in real time – CodeExpert Group ETH, Grade: 6.
+> Thesis: Real-time containerisation for coding exercises (CodeExpert, ETH). Grade: 6.0/6.0
 
 `2014 - 2018`
-**Kantonsschule Schaffhausen** Matura Diploma
+**Kantonsschule Schaffhausen** Matura — Core subject: Economics, Business & Law
 
-> Core subject: Economics, Business & Law. Maturaarbeit on _"Werden die Reichen immer reicher?"_
+> Maturaarbeit: _"Werden die Reichen immer reicher?"_, econometric & policy analysis of wealth distribution. Grade: 6.0/6.0
 
 ## Employment
 
-`Oct 2025 - now`
-**IVIA Lab ETH** Teaching Assistant Full-Stack Software Engineer (40%)
+`Oct 2025 - present`
+**IVIA Lab, ETH Zürich** Full-Stack Software Engineer (30%)
 
 - Interactive Visualization & Intelligence Augmentation Lab: Bridging Human and Artificial Intelligence
 
-`Oct 2024 - Mar 2025 · 6 mos`
-**Supertext AG (former Textshuttle)** Full-Stack Software Engineer (40%)
+`Oct 2024 - Mar 2025`
+**Supertext AG (formerly Textshuttle)** Full-Stack Junior Software Engineer (40%)
 
-- Development, operation and maintenance of systems for AI-translation
-- Focus: adaptation and improvement of front-end applications for machine translation as well as payment processes and management of professional translation orders (React, NextJS)
-- Implementation of web design proposals (Figma, Headless CMS)
+- Drove product improvements for an enterprise AI translation platform. Owning front-end features, payment workflows, and order management for commercial clients.
+- Collaborated with design and product stakeholders to translate Figma concepts into production interfaces (React, Next.js, Headless CMS).
 
-`Apr 2024 - Oct 2024 · 6 mos`
-**Eightinks AG** Full-Stack Software Developer (20%)
+`Apr 2024 - Oct 2024`
+**8inks AG** Full-Stack Software Developer (20%)
 
-- Enhancement of the battery data analytics platform from previous internship. Scaled system to handle increased data volume and complexity
+- Technical owner of an internal battery analytics platform, scaling the platform built during a prior internship to handle higher data volume and complexity.
 
-`Oct 2023 - Mar 2024 · 6 mos`
-**Textshuttle AG** Internship Software Engineering
+`Oct 2023 - Mar 2024`
+**Textshuttle AG** Software Engineering Internship
 
-- Delivered key features for enterprise machine translation platform in agile environment
-- Demonstrated strong technical ownership and independent problem-solving abilities
-- Received exceptional feedback for effectively sharing knowledge with colleagues and actively participating in technical decision-making
+- Delivered key product features for an enterprise AI-translation platform in an agile team; participated actively in technical decision-making and roadmap discussions.
+- Noted in performance feedback for exceptional knowledge-sharing and independent problem-solving.
 
 <!-- - Work Examples:
   - Implementation of an interactive dashboard to display usage data of the translation solution using TypeScript, React, Nextjs.
   - Extensive restructuring (Refactoring) of the logic for selecting the correct resources in translation requests using Python, Docker, FastAPI, PostgreSQL, Azure. -->
 
-`Jul 2023 - Sep 2023 · 3 mos`
-**Eightinks AG** Internship Software Engineering
+`Jul 2023 - Sep 2023`
+**8inks AG** Software Engineering Internship
 
-- Led end-to-end development of battery (big) data processing system and interactive visualization dashboard
-- Managed project lifecycle including requirements gathering, task prioritization, and deadline setting
-- Tech stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly (Dash), Holoviews/Datashader
+- Led end-to-end product development of a battery big-data processing system and interactive analytics dashboard. Requirements gathering and prioritisation through to delivery.
+- Managed the project lifecycle. Stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly, Datashader.
 
-`Oct 2022 - Apr 2023 · 7 mos`
-**Gap semester** Travel Europe and Asia
-
-`Aug 2021 - Jul 2022 · 12 mos`
+`Aug 2021 - Jul 2022 `
 **TopLearning GmbH** Private Tutor
 
-- Teaching groups of students from secondary school to university levels in a variety of subjects (mainly STEM).
+- Taught groups of secondary and high-school students in STEM subjects
 
-`Apr 2020 - 2022 · 2 yrs`
+`Apr 2020 - 2022`
 **Freelance Web Developer**
 
-> - **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Next.js and headless CMS.
+- Shipped production websites for SME clients; weingut-stoll.ch drove a 78% traffic increase in the first six months post-launch.
+
+<!-- > - **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Next.js and headless CMS.
 > - **Weingut Stoll**: (Pro-bono) Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js, headless CMS and Shopify APIs. **Website traffic increased by 78% in the first six months** after launch.
-> - **Thea Schellhammer**: Design and development of [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, Wordpress.
+> - **Thea Schellhammer**: Design and development of [inboxyourstuff.de](https://inboxyourstuff.de) using jQuery, Wordpress. -->
 
 <!-- `2019/02 - 2019/05`
 **Sahli Sicherheits AG** IT-Internship
 
 - Migration of company ERP system from on-prem to the cloud. Design and development of [sahli-sicherheit.ch](https://sahli-sicherheit.ch). -->
 
-`Jun 2018 - Oct 2018 · 5 mos`
-**Schweizer Armee** Member of the Swiss Armed Forces
+<!-- `Jun 2018 - Oct 2018 · 5 mos`
+**Schweizer Armee** Member of the Swiss Armed Forces -->
 
 ## Projects
 
-`Feb 2025 - Jun 2025`
-**DeepPlaybook** - Deep Learning-Based Basketball Playbook Analysis for Coaches
+`ETH IVIA Lab`
+**DeepPlaybook** - Interactive ML Product for Basketball Coaches
 
-- Built an interactive mixed-initiative ML system for basketball coaches to analyze opponent tactics and identify similar plays, implemented as part of Interactive Machine Learning course at IVIA Lab, ETH Zurich. [Blog Post](https://romeostoll.com/projects/deep-playbook/)
-- Tech Stack: PyTorch/Lightning, Flask, React.js/D3.js, Docker/Kubernetes
+- Built a mixed-initiative ML system enabling coaches to analyse opponent tactics and surface similar plays — a full product from model (PyTorch) to interface (React/D3.js), containerised with Kubernetes. [Blog Post](https://romeostoll.com/projects/deep-playbook/)
 
-`Sept 2021 - Apr 2022`
-**The Future of Computing** - Research on Emerging Computing Technologies
+`ETH / IBM`
+**The Future of Computing — IBM Academy Research**
 
-- Collaborated on _IBM Academy Initiative_ examining Quantum, Neuromorphic, and In-Memory computing technologies
-- Presented analysis to _IBM_ stakeholders and ETH CAS graduates, published as internal IBM blog post
+- Collaborated on IBM-sponsored research into Quantum, Neuromorphic, and In-Memory computing; presented findings to IBM stakeholders and ETH CAS graduates; published as an internal IBM blog post.
 
-`2016 - 2017`
-**flavourized.** Founder & Team Lead (Young Enterprise Switzerland Company Program)
+`Young Enterprise Switzerland Company Program`
+**flavourized.** Founder & Team Lead
 
-- Secured funding from individual investors and established direct-to-consumer sales channels
-- Managed full business lifecycle from concept to market entry and exit
+- Founded and ran a consumer product company: secured external investor funding, built direct-to-consumer channels, and managed the full business lifecycle from concept to market exit.
   <!-- - Developed and brought to market an innovative reusable water bottle product -->
   <!-- - Designed and executed marketing strategy including event presence and online sales -->
 
-## Skills
+## Skills & Languages
 
 <!-- ### Software Development
 
@@ -183,72 +179,60 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
     </thead>
     <tbody>
       <tr>
+        <td><strong>Product & Analysis</strong><small>User research, system design, requirements gathering, data analysis & visualisation</small></td>
+        <td><div class="skill-level" data-level="2"></div></td>
+        <td><span class="focus-indicator">★</span></td>
+      </tr>
+      <tr>
         <td><strong>Frontend Development</strong><small>TypeScript, React.js, Next.js, CSS</small></td>
-        <td><div class="skill-level" data-level="5"></div></td>
+        <td><div class="skill-level" data-level="4"></div></td>
         <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
         <td><strong>Backend Development</strong><small>Python, Node.js, Java, C++</small></td>
-        <td><div class="skill-level" data-level="4"></div></td>
-        <td><span class="focus-indicator">★</span></td>
-      </tr>
-      <tr>
-        <td><strong>Databases</strong><small>PostgreSQL, MySQL, BigQuery</small></td>
-        <td><div class="skill-level" data-level="4"></div></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><strong>Machine Learning & NLP</strong><small>Pytorch, vLLM</small></td>
         <td><div class="skill-level" data-level="3"></div></td>
         <td></td>
       </tr>
       <tr>
-        <td><strong>Containerization</strong><small>Docker, Docker Compose, Kubernetes</small></td>
-        <td><div class="skill-level" data-level="4"></div></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><strong>Cloud Computing</strong><small>Azure, Google Cloud</small></td>
-        <td><div class="skill-level" data-level="3"></div></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><strong>Data Analysis & Automation</strong></td>
-        <td><div class="skill-level" data-level="4"></div></td>
-        <td><span class="focus-indicator">★</span></td>
-      </tr>
-      <tr>
-        <td><strong>Visualization, UI/UX</strong></td>
-        <td><div class="skill-level" data-level="4"></div></td>
-        <td><span class="focus-indicator">★</span></td>
-      </tr>
-      <tr>
-        <td><strong>Languages</strong><small>English (Fluent), German (Native)</small></td>
-        <td><div class="skill-level" data-level="5"></div></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><strong>French & Italian</strong></td>
+        <td><strong>ML, Context Engineering, Agents</strong><small>Pytorch, Palantir Foundry AIP</small></td>
         <td><div class="skill-level" data-level="2"></div></td>
+        <td><span class="focus-indicator">★</span></td>
+      </tr>
+      <tr>
+        <td><strong>Data Automation, Analysis & Visualization</strong><small>Python, Palantir Foundry, Plotly, D3.js</small></td>
+        <td><div class="skill-level" data-level="3"></div></td>
+        <td><span class="focus-indicator">★</span></td>
+      </tr>
+      <tr>
+        <td><strong>Databases</strong><small>PostgreSQL, MySQL, BigQuery, Palantir Foundry</small></td>
+        <td><div class="skill-level" data-level="2"></div></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><strong>Cloud Computing</strong><small>Azure, Google Cloud, Docker Compose, Kubernetes</small></td>
+        <td><div class="skill-level" data-level="2"></div></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><strong>Languages</strong><small>English (Fluent), German (Native), French (B1), Italian (A2)</small></td>
+        <td><div class="skill-level" data-level="4"></div></td>
         <td></td>
       </tr>
     </tbody>
   </table>
   <div class="skills-legend">
-    <span><strong>Strength:</strong> <span class="legend-dots">●●●●●</span> Expert | <span class="legend-dots">●●●●○</span> Advanced | <span class="legend-dots">●●●○○</span> Intermediate</span>
-    <span><strong>Focus:</strong> <span class="focus-indicator">★</span> Primary focus area</span>
+    <span><strong>Strength:</strong> <span class="legend-dots">●●●●●</span> Expert | <span class="legend-dots">●●●●○</span> Advanced | <span class="legend-dots">●●●○○</span> Intermediate | <span class="legend-dots">●●○○○</span> Junior</span>
+    <span><strong>Focus:</strong> <span class="focus-indicator">★</span> Focus area</span>
   </div>
 </div>
 
 <!-- fa is fontawesome, ai are academicons -->
 
-### Personal Interests
+### Interests
 
-Sailing, Bikepacking, Reading, Philosophy, DJ
+Sailing (Swiss Hochseeschein), bikepacking, reading, philosophy, DJing.
 
-### References
-
-Available on request.
+_References available on request._
 
 <!-- ### Footer
 
