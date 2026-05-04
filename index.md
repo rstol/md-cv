@@ -28,10 +28,10 @@ title: Romeo M. Stoll's CV
           <i class="fa fa-linkedin"></i>
           <span>LinkedIn</span>
         </a>
-        <a href="https://romeostoll.com" class="social-link">
+        <!-- <a href="https://romeostoll.com" class="social-link">
           <i class="fa fa-link"></i>
           <span>Website</span>
-        </a>
+        </a> -->
       </div>
       <div class="contact-secondary">
         <span class="contact-item">Date of birth: 19.07.1999</span>
@@ -44,7 +44,7 @@ title: Romeo M. Stoll's CV
 
 ## Profile
 
-ETH Zürich-trained engineer (BSc Computer Science, MSc MTEC — Management, Technology & Economics) pivoting into product management and strategy. I bring four years of hands-on software engineering experience across startups and research labs, alongside a master’s thesis in which I am designing and evaluating an LLM agent system for enterprise reinsurance. Looking for a first full-time role at the intersection of technical depth and business decisions — translating between the two. Open to growth-stage companies, corporates, consulting, and relocation.
+Software engineer with four years of hands-on experience across startups and research labs, now deepening into product and strategy through an MSc in Management, Technology & Economics at ETH Zürich. I am learning how technical and business decisions shape each other and striving for end-to-end responsibility and product ownership. As my master's thesis, I am designing and evaluating an AI agent system for enterprise. Drawn to early-stage product roles where technical and business ownership overlap; open to corporates and relocation.
 
 <!-- I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realizing ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
 In the fall of 2022, I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
@@ -52,14 +52,14 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 ## Education
 
 `Sep 2024 - Sep 2026`
-**ETH Zürich** MSc ETH MTEC — Management, Technology, and Economics)
+**ETH Zürich** MSc ETH MTEC — Management, Technology, and Economics
 
-> Master's thesis (in progress): Designing an LLM agent system for expert decision support in reinsurance underwriting. Combines retrieval-augmented generation, agent self-improvement from expert feedback, and an LLM-as-judge evaluation framework. Deployed on Palantir Foundry AIP.
+> Master's thesis (in progress): Designing and evaluating an AI agent system for expert decision support in enterprise knowledge work. The agent features a self-improvement loop — reflecting on past interactions, generating structured memory, and surfacing relevant context when it matters. Human validation governs what gets retained; an expert-aligned evaluation framework measures the impact on reasoning quality.
 
 `Sep 2019 - Aug 2023`
 **ETH Zürich** BSc ETH Computer Science
 
-> Thesis: Real-time containerisation for coding exercises (CodeExpert, ETH). Grade: 6.0/6.0
+> Thesis: Real-time containerisation for coding exercises (CodeExpert, Prof. Dr. Bernd Gärtner). Grade: 6.0/6.0
 
 `2014 - 2018`
 **Kantonsschule Schaffhausen** Matura — Core subject: Economics, Business & Law
@@ -71,18 +71,18 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `Oct 2025 - present`
 **IVIA Lab, ETH Zürich** Full-Stack Software Engineer (30%)
 
-- Interactive Visualization & Intelligence Augmentation Lab: Bridging Human and Artificial Intelligence
+- Lead full-stack developer building a platform that matches researchers with industry partners for internships, theses, and collaborative projects.
 
 `Oct 2024 - Mar 2025`
-**Supertext AG (formerly Textshuttle)** Full-Stack Junior Software Engineer (40%)
+**Supertext AG (formerly Textshuttle)** Full-Stack Software Engineer (40%)
 
-- Drove product improvements for an enterprise AI translation platform. Owning front-end features, payment workflows, and order management for commercial clients.
-- Collaborated with design and product stakeholders to translate Figma concepts into production interfaces (React, Next.js, Headless CMS).
+- Joined for a enterprise AI translation post-merger platform rebuild — a business-critical project where continuity depended on successful delivery.
+- Stabilised the payment system and core translation interface; owned the marketing/CMS and localisation content pipeline end-to-end.
 
 `Apr 2024 - Oct 2024`
 **8inks AG** Full-Stack Software Developer (20%)
 
-- Technical owner of an internal battery analytics platform, scaling the platform built during a prior internship to handle higher data volume and complexity.
+- Scaled the battery analytics platform (built in prior internship) 3× in data volume through caching, horizontal scaling, and architectural refactoring
 
 `Oct 2023 - Mar 2024`
 **Textshuttle AG** Software Engineering Internship
@@ -179,13 +179,13 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
     </thead>
     <tbody>
       <tr>
-        <td><strong>Product & Analysis</strong><small>User research, system design, requirements gathering, data analysis & visualisation</small></td>
-        <td><div class="skill-level" data-level="2"></div></td>
+        <td><strong>Frontend Development</strong><small>TypeScript, React.js, Next.js, CSS</small></td>
+        <td><div class="skill-level" data-level="4"></div></td>
         <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
-        <td><strong>Frontend Development</strong><small>TypeScript, React.js, Next.js, CSS</small></td>
-        <td><div class="skill-level" data-level="4"></div></td>
+        <td><strong>Product & Analysis</strong><small>User research, prototyping, system design, requirements gathering, data analysis & visualisation</small></td>
+        <td><div class="skill-level" data-level="3"></div></td>
         <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
@@ -194,8 +194,8 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
         <td></td>
       </tr>
       <tr>
-        <td><strong>ML, Context Engineering, Agents</strong><small>Pytorch, Palantir Foundry AIP</small></td>
-        <td><div class="skill-level" data-level="2"></div></td>
+        <td><strong>AI, Context Engineering, Agents</strong><small>Pytorch, Palantir Foundry AIP</small></td>
+        <td><div class="skill-level" data-level="3"></div></td>
         <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
