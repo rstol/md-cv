@@ -1,2 +1,3 @@
 markdown: kramdown
 style: romeostoll
+baseurl: /md-cv
