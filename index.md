@@ -44,7 +44,7 @@ title: Romeo M. Stoll's CV
 
 ## Profile
 
-Software engineer with four years of hands-on experience across startups and research labs, now deepening into product and strategy through an MSc in Management, Technology & Economics at ETH Zürich. I am learning how technical and business decisions shape each other and striving for end-to-end responsibility and product ownership. As my master's thesis, I am designing and evaluating an AI agent system for enterprise. Drawn to early-stage product roles where technical and business ownership overlap; open to corporates and relocation.
+Software engineer with four years of hands-on experience across startups and research labs, now deepening into product and strategy through an MSc in Management, Technology & Economics at ETH Zürich. I am learning how technical and business decisions shape each other and striving for end-to-end responsibility and product ownership. As my master's thesis, I am designing and evaluating an AI agent system for enterprise. Drawn to early-stage product roles where technical and business ownership overlap.
 
 <!-- I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realizing ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
 In the fall of 2022, I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
@@ -54,7 +54,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `Sep 2024 - Sep 2026`
 **ETH Zürich** MSc ETH MTEC — Management, Technology, and Economics
 
-> Master's thesis (in progress): Designing and evaluating an AI agent system for expert decision support in enterprise knowledge work. The agent features a self-improvement loop — reflecting on past interactions, generating structured memory, and surfacing relevant context when it matters. Human validation governs what gets retained; an expert-aligned evaluation framework measures the impact on reasoning quality.
+> Master's thesis (in progress): Designing and evaluating an AI agent-workflow for expert decision support in enterprise knowledge work. The agent features RAG, memory, and tools to surface relevant knowledge base context. A feedback-loop — reflecting on past interactions, generating structured memory. Human validation governs what gets retained; an expert-aligned evaluation framework measures the impact on reasoning quality.
 
 `Sep 2019 - Aug 2023`
 **ETH Zürich** BSc ETH Computer Science
@@ -69,9 +69,9 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 ## Employment
 
 `Oct 2025 - present`
-**IVIA Lab, ETH Zürich** Full-Stack Software Engineer (30%)
+**ETH Zürich** Full-Stack Software Engineer (30%)
 
-- Lead full-stack developer building a platform that matches researchers with industry partners for internships, theses, and collaborative projects.
+- Lead full-stack developer building a [matchminds.ethz.ch](platform) that matches researchers with industry partners for internships, theses, and collaborative projects.
 
 `Oct 2024 - Mar 2025`
 **Supertext AG (formerly Textshuttle)** Full-Stack Software Engineer (40%)
@@ -82,7 +82,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `Apr 2024 - Oct 2024`
 **8inks AG** Full-Stack Software Developer (20%)
 
-- Scaled the battery analytics platform (built in prior internship) 3× in data volume through caching, horizontal scaling, and architectural refactoring
+- Scaled the ETL battery analytics platform (built in prior internship) 3× in data volume through caching, horizontal scaling, and architectural refactoring
 
 `Oct 2023 - Mar 2024`
 **Textshuttle AG** Software Engineering Internship
@@ -97,7 +97,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `Jul 2023 - Sep 2023`
 **8inks AG** Software Engineering Internship
 
-- Led end-to-end product development of a battery big-data processing system and interactive analytics dashboard. Requirements gathering and prioritisation through to delivery.
+- Led end-to-end product development of a battery ETL big-data processing system and interactive analytics dashboard. Requirements gathering and prioritisation through to delivery.
 - Managed the project lifecycle. Stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly, Datashader.
 
 `Aug 2021 - Jul 2022 `
@@ -108,7 +108,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 `Apr 2020 - 2022`
 **Freelance Web Developer**
 
-- Shipped production websites for SME clients; weingut-stoll.ch drove a 78% traffic increase in the first six months post-launch.
+- Shipped production websites for SME clients; [weingut-stoll.ch](weingut-stoll.ch) drove a 78% traffic increase in the first six months post-launch.
 
 <!-- > - **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Next.js and headless CMS.
 > - **Weingut Stoll**: (Pro-bono) Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js, headless CMS and Shopify APIs. **Website traffic increased by 78% in the first six months** after launch.
@@ -125,7 +125,7 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
 ## Projects
 
 `ETH IVIA Lab`
-**DeepPlaybook** - Interactive ML Product for Basketball Coaches
+**DeepPlaybook** - Interactive AI Product for Basketball Coaches
 
 - Built a mixed-initiative ML system enabling coaches to analyse opponent tactics and surface similar plays — a full product from model (PyTorch) to interface (React/D3.js), containerised with Kubernetes. [Blog Post](https://romeostoll.com/projects/deep-playbook/)
 
@@ -179,13 +179,13 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
     </thead>
     <tbody>
       <tr>
-        <td><strong>Frontend Development</strong><small>TypeScript, React.js, Next.js, CSS</small></td>
-        <td><div class="skill-level" data-level="4"></div></td>
+        <td><strong>Product & Analysis</strong><small>User research, prototyping, system design, requirements gathering, data analysis & visualisation</small></td>
+        <td><div class="skill-level" data-level="3"></div></td>
         <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
-        <td><strong>Product & Analysis</strong><small>User research, prototyping, system design, requirements gathering, data analysis & visualisation</small></td>
-        <td><div class="skill-level" data-level="3"></div></td>
+        <td><strong>Frontend Development</strong><small>TypeScript, React.js, Next.js, CSS</small></td>
+        <td><div class="skill-level" data-level="4"></div></td>
         <td><span class="focus-indicator">★</span></td>
       </tr>
       <tr>
@@ -201,11 +201,11 @@ In the fall of 2022, I took a gap semester to fulfill my dream of traveling the 
       <tr>
         <td><strong>Data Automation, Analysis & Visualization</strong><small>Python, Palantir Foundry, Plotly, D3.js</small></td>
         <td><div class="skill-level" data-level="3"></div></td>
-        <td><span class="focus-indicator">★</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><strong>Databases</strong><small>PostgreSQL, MySQL, BigQuery, Palantir Foundry</small></td>
-        <td><div class="skill-level" data-level="2"></div></td>
+        <td><div class="skill-level" data-level="3"></div></td>
         <td></td>
       </tr>
       <tr>
