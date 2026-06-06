@@ -44,7 +44,7 @@ title: Romeo M. Stoll's CV
 
 ## Profile
 
-Software engineer with four years of hands-on experience across startups and research labs, now deepening into product and strategy through an MSc in Management, Technology & Economics at ETH Zürich. I am learning how technical and business decisions shape each other and striving for end-to-end responsibility and product ownership. As my master's thesis, I am designing and evaluating an AI agent system for enterprise. Drawn to early-stage product roles where technical and business ownership overlap.
+Software engineer, four years across startups and research labs, now studying management and strategy in an MSc in Management, Technology & Economics at ETH Zürich. I am learning how technical and business decisions shape each other and want to own projects end to end. For my thesis, I am building and testing an AI agent system for enterprise knowledge management use. I am drawn to consulting and product roles where technical and business judgment meet.
 
 <!-- I’m a Computer Science student at ETH Zürich shortly before graduation and looking to work as a software developer skillfully realizing ideas. I enjoy finding solutions that make hard problems seem simple by using effective abstractions.
 In the fall of 2022, I took a gap semester to fulfill my dream of traveling the world for 6 months. This has taught me many life skills as flexibility, negotiation, self-sufficiency, and improvisation. -->
