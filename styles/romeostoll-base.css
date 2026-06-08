@@ -171,7 +171,7 @@ h4 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.75em;
 }
 
 h1 + p {
@@ -312,7 +312,7 @@ strong {
 
 #profile-picture {
   overflow: hidden;
-  width: 80px;
+  width: 68px;
   object-fit: contain;
   object-position: center;
 }

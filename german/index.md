@@ -51,7 +51,7 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
 `Sep 2024 - Sep 2026`
 **ETH Zürich** MSc ETH MTEC — Management, Technology, and Economics
 
-> Masterarbeit (in Bearbeitung): Entwicklung und Evaluierung eines KI-Agenten-Workflows zur Entscheidungsunterstützung von Experten in der Wissensarbeit von Unternehmen. Der Agent verfügt über RAG, ein Gedächtnis und Tools, die relevante Kontexte aus der Wissensbasis aufdecken. Ein Feedback-Loop, der vergangene Interaktionen reflektiert und strukturiertes Gedächtnis generiert. Die menschliche Validierung bestimmt, was beibehalten wird; ein auf Experten zugeschnittenes Evaluierungs-Framework misst die Auswirkungen auf die Qualität der Argumentation.
+> Masterarbeit (in Bearbeitung): Entwicklung und Evaluierung eines KI-Agenten-Workflows zur Entscheidungsunterstützung von Experten in der Wissensarbeit einer Rückversicherung. Der Agent verfügt über RAG, ein Gedächtnis und Tools, die relevante Kontexte aus der Wissensbasis aufdecken. Ein Feedback-Loop, der vergangene Interaktionen reflektiert und strukturiertes Gedächtnis generiert. Die menschliche Validierung bestimmt, was beibehalten wird; ein auf Experten zugeschnittenes Evaluierungs-Framework misst die Auswirkungen auf die Qualität der Argumentation.
 
 `Sep 2019 - Aug 2023`
 **ETH Zürich** BSc ETH Computer Science
@@ -61,31 +61,31 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
 `2014 - 2018`
 **Kantonsschule Schaffhausen** Matura – Kernfach: Wirtschaft & Recht
 
-> Maturaarbeit: «Werden die Reichen immer reicher?» Ökonometrie & politische Analyse der Vermögensverteilung. Note: 6.0/6.0
+> Maturaarbeit: «Werden die Reichen immer reicher?» Analyse der Vermögensverteilung. Note: 6.0/6.0
 
 ## Beschäftigung
 
 `Oct 2025 - present`
 **ETH Zürich** Full-Stack Software Engineer (30%)
 
-- Lead-Fullstack-Entwickler für das [matchminds.ethz.ch](platform) Projekt, die Forscher mit Industriepartnern für Praktika, Abschlussarbeiten und gemeinsame Projekte zusammenbringt.
+- Lead-Fullstack-Entwickler für das [MatchMinds](https://matchminds.ethz.ch) Projekt, die Forscher mit Industriepartnern für Praktika, Abschlussarbeiten und gemeinsame Projekte zusammenbringt.
 
 `Oct 2024 - Mar 2025`
 **Supertext AG (formerly Textshuttle)** Full-Stack Software Engineer (40%)
 
-- Aufbau einer Plattform für die Übersetzung mittels KI nach der Fusion – ein unternehmenskritisches Projekt, bei dem die Kontinuität von einer erfolgreichen Umsetzung abhing.
-  – Stabilisierung des Zahlungssystems und der Kern-Übersetzungsschnittstelle; End-to-End-Verantwortung für die Marketing-/CMS- und Lokalisierungs-Content-Pipeline.
+- Aufbau einer neuen Plattform für die Übersetzung mittels KI – ein unternehmenskritisches Projekt.
+- Stabilisierung des Zahlungssystems und der Kern-Übersetzungsschnittstelle; End-to-End-Verantwortung für die Marketing-/CMS- und Lokalisierungs-Content-Pipeline.
 
 `Apr 2024 - Oct 2024`
 **8inks AG** Full-Stack Software Developer (20%)
 
-- Skalierung der ETL-Batterie-Analyseplattform (entwickelt während eines früheren Praktikums) um das 3-fache des Datenvolumens durch Caching, horizontale Skalierung und Umstrukturierung der Architektur
+- Skalierung der ETL-Batterie-Analyseplattform (entwickelt in früheren Praktikum) um das 3-fache des Datenvolumens durch Caching, horizontale Skalierung und Umstrukturierung der Architektur
 
 `Oct 2023 - Mar 2024`
 **Textshuttle AG** Software Engineering Internship
 
-- In einem agilen Team wurden wichtige Produktmerkmale für eine Enterprise-KI-Übersetzungsplattform entwickelt; aktive Teilnahme an technischen Entscheidungsfindungen und Roadmap-Diskussionen.
-  – In Leistungsbewertungen wurde die hervorragende Fähigkeit zur Weitergabe von Wissen und zur selbstständigen Problemlösung hervorgehoben.
+- Entwickelte wichtige Produktkomponenten in agilen Team für eine Enterprise-KI-Übersetzungsplattform; aktive Teilnahme an Entscheidungsfindungen und Roadmap-Diskussionen.
+- In Leistungsbewertungen wurde die hervorragende Fähigkeit zur Weitergabe von Wissen und zur selbstständigen Problemlösung hervorgehoben.
 
 <!-- - Work Examples:
   - Implementation of an interactive dashboard to display usage data of the translation solution using TypeScript, React, Nextjs.
@@ -94,17 +94,18 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
 `Jul 2023 - Sep 2023`
 **8inks AG** Software Engineering Internship
 
-- End-to-End-Produktentwicklung einer ETL-Pipeline für die Verarbeitung von Big Data im Bereich Batterien und eines interaktiven Dashboards für Analysen. Erstellung von Anforderungen, Priorisierung und Lieferung.
-  – Leitung des Projektzyklus. Stack: Python, Docker, Google Cloud, BigQuery, MySQL, Plotly, Datashader.
+- End-to-End-Produktentwicklung einer ETL-Pipeline für die Verarbeitung von Big Data im Bereich Batterien und eines interaktiven Dashboards für Analysen. Erstellung von Anforderungen, Priorisierung und Lieferung. Leitung des Projektzyklus. Stack: Dash, GCP, BigQuery, MySQL, Plotly.
 
 `Aug 2021 - Jul 2022 `
 **TopLearning GmbH** Private Tutor
 
 - Unterrichtete Gruppen von Mittel- und Oberstufenschülern in MINT-Fächern
-- `Apr 2020 - 2022`
-  **Freelance Web Developer**
 
-- Versand von Produktionswebsites für KMU-Kunden; [weingut-stoll.ch](weingut-stoll.ch) verzeichnete in den ersten sechs Monaten nach der Lancierung einen Traffic-Anstieg von 78%.
+<!-- `Apr 2020 - 2022`
+**Freelance Web Developer**
+
+- Versand von Produktionswebsites für KMU-Kunden; [weingut-stoll.ch](https://weingut-stoll.ch), [stüürlade.ch](https://stüürlade.ch) -->
+<!-- - verzeichnete in den ersten sechs Monaten nach der Lancierung einen Traffic-Anstieg von 78%. -->
 
 <!-- > - **Stüürlade GmbH**: Design and development of [stüürlade.ch](https://stüürlade.ch) using Next.js and headless CMS.
 > - **Weingut Stoll**: (Pro-bono) Design and development of [weingut-stoll.ch](https://weingut-stoll.ch) with Next.js, headless CMS and Shopify APIs. **Website traffic increased by 78% in the first six months** after launch.
@@ -123,9 +124,10 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
 `ETH IVIA Lab`
 **DeepPlaybook** - Interactive AI Product for Basketball Coaches
 
-- Entwicklung eines ML-Systems, das es Trainern ermöglicht, gegnerische Taktiken zu analysieren und ähnliche Spielzüge zu erkennen – ein vollständiges Produkt, das von der Modellentwicklung (PyTorch) bis zur Benutzeroberfläche (React/D3.js) reicht und mit Kubernetes containerisiert wurde. [Blog-Beitrag](https://romeostoll.com/projects/deep-playbook/)
-- `ETH / IBM`
-  **The Future of Computing — IBM Academy Research**
+- Entwicklung eines ML-Systems, das es Trainern ermöglicht, gegnerische Taktiken zu analysieren und ähnliche Spielzüge zu erkennen – ein vollständiges Produkt von der Modellentwicklung (PyTorch, FastAPI) bis zur Benutzeroberfläche (React/D3.js). [Blog-Beitrag](https://romeostoll.com/projects/deep-playbook/)
+
+`ETH / IBM`
+**The Future of Computing — IBM Academy Research**
 
 - Mitarbeit an von IBM gesponserten Forschungsarbeiten zu Quanten-, neuromorphen und In-Memory-Computing; Präsentation der Ergebnisse für IBM-Interessensvertreter und Absolventen des CAS der ETH; Veröffentlichung als interner Blogbeitrag von IBM.
 
