@@ -42,16 +42,16 @@ title: Romeo M. Stoll's CV
   <img src="../assets/BewerbungsfotoSeite2022.jpg" alt="Picture of Romeo Stoll" id="profile-picture">
 </header>
 
-## Profil
+<!-- ## Profil
 
-Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren, derzeit im Masterstudium Management, Technology and Economics an der ETH Zürich mit Schwerpunkt Management und Strategie. Ich lerne, wie technische und unternehmerische Entscheidungen einander prägen, und möchte Projekte von Anfang bis Ende verantworten. In meiner Masterarbeit entwickle und evaluiere ich ein KI-Agentensystem für das Wissensmanagement in Unternehmen. Mich reizen Beratungs- und Produktrollen, in denen technisches und unternehmerisches Urteilsvermögen zusammenkommen.
+Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren, derzeit im Masterstudium Management, Technology and Economics an der ETH Zürich mit Schwerpunkt Management und Strategie. Ich lerne, wie technische und unternehmerische Entscheidungen einander prägen, und möchte Projekte von Anfang bis Ende verantworten. In meiner Masterarbeit entwickle und evaluiere ich ein KI-Agentensystem für das Wissensmanagement in Unternehmen. Mich reizen Beratungs- und Produktrollen, in denen technisches und unternehmerisches Urteilsvermögen zusammenkommen. -->
 
 ## Ausbildung
 
 `Sep 2024 - Sep 2026`
 **ETH Zürich** MSc ETH MTEC — Management, Technology, and Economics
 
-> Masterarbeit (in Bearbeitung): Entwicklung und Evaluierung eines KI-Agenten-Workflows zur Entscheidungsunterstützung von Experten in der Wissensarbeit einer Rückversicherung. Der Agent verfügt über RAG, ein Gedächtnis und Tools, die relevante Kontexte aus der Wissensbasis aufdecken. Ein Feedback-Loop, der vergangene Interaktionen reflektiert und strukturiertes Gedächtnis generiert. Die menschliche Validierung bestimmt, was beibehalten wird; ein auf Experten zugeschnittenes Evaluierungs-Framework misst die Auswirkungen auf die Qualität der Argumentation.
+> Masterarbeit (in Zusammenarbeit mit SwissRe): Entwicklung einer KI-Anwendung zur Entscheidungsunterstützung, indem der Agent relevanten Kontext aus der Wissensbasis aufberereitet. Ein Feedback-Loop reflektiert und generiert neues Wissen. Menschliche Validierung bestimmt, was behalten wird; ein Evaluierungs-Framework misst die Qualität. GPA: 5.25
 
 `Sep 2019 - Aug 2023`
 **ETH Zürich** BSc ETH Computer Science
@@ -65,7 +65,10 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
 
 ## Beschäftigung
 
-`Oct 2025 - present`
+`Oct 2026 - jetzt`
+**Swiss Re** AI Product and Transformation Analyst, Zürich
+
+`Oct 2025 - Sep 2026`
 **ETH Zürich** Full-Stack Software Engineer (30%)
 
 - Lead-Fullstack-Entwickler für das [MatchMinds](https://matchminds.ethz.ch) Projekt, die Forscher mit Industriepartnern für Praktika, Abschlussarbeiten und gemeinsame Projekte zusammenbringt.
@@ -138,7 +141,7 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
   <!-- - Developed and brought to market an innovative reusable water bottle product -->
   <!-- - Designed and executed marketing strategy including event presence and online sales -->
 
-## Skills & Languages
+## Skills & Sprachen
 
 <!-- ### Software Development
 
@@ -169,9 +172,9 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
   <table>
     <thead>
       <tr>
-        <th>Skill Area</th>
-        <th>Strength</th>
-        <th>Focus</th>
+        <th>Skill</th>
+        <th>Stärke</th>
+        <th>Fokus</th>
       </tr>
     </thead>
     <tbody>
@@ -227,7 +230,7 @@ Softwareentwickler mit vier Jahren Erfahrung in Start-ups und Forschungslaboren,
 
 ### Interessen
 
-Segeln (Schweizer Hochseeschein), Bikepacking, Lesen, Philosophie, DJing.
+Segeln, Bikepacking, Lesen, Philosophie, DJing.
 
 _Referenzen auf Anfrage erhältlich._
 
